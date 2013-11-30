@@ -1,0 +1,6 @@
+*~
+*-
+*.bak*
+*.new.pcb
+*.png
+power-schematic.pdf
