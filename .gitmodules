@@ -1,0 +1,6 @@
+[submodule "pkg"]
+	path = pkg
+	url = ../pkg
+[submodule "sym"]
+	path = sym
+	url = ../sym
