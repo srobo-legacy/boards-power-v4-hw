@@ -9,7 +9,7 @@ Grid[393.700787 0.0000 0.0000 1]
 PolyArea[3100.006200]
 Thermal[0.500000]
 DRC[0.2000mm 0.2000mm 0.2000mm 0.2000mm 0.3000mm 0.2000mm]
-Flags("showdrc,rubberband,nameonpcb,uniquename,clearnew,snappin,hidenames")
+Flags("showdrc,nameonpcb,uniquename,clearnew,snappin,hidenames")
 Groups("1,c:2,s")
 Styles["Signal,0.4000mm,0.7000mm,0.3000mm,10.00mil:Power,0.5000mm,60.00mil,35.00mil,10.00mil:Fat,40.00mil,60.00mil,35.00mil,10.00mil:Skinny,0.2000mm,24.02mil,0.3000mm,6.00mil"]
 
@@ -1194,22 +1194,22 @@ Element["" "PowerSSO24_sr.fp" "J1" "unknown" 11.0000mm 58.0000mm 0.0000 0.0000 1
 
 	)
 
-Element["" "WURTH_7461001_sr.fp" "TP4" "unknown" 35.6000mm 5.8000mm 0.0000 0.0000 0 100 ""]
+Element["" "WURTH_7461001_sr.fp" "TP4" "unknown" 500.00mil 5.8000mm 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
 	Attribute("manufacturer_part_number" "unknown")
 	Attribute("vendor" "unknown")
 	Attribute("vendor_part_number" "unknown")
-	Pin[-100.00mil -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[0.0000 -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[100.00mil -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[-100.00mil 0.0000 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[0.0000 0.0000 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[100.00mil 0.0000 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[-100.00mil 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[0.0000 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[100.00mil 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[-100.00mil -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5000mm "1" "1" "thermal(0S,1S)"]
+	Pin[0.0000 -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5000mm "1" "1" "thermal(0S,1S)"]
+	Pin[100.00mil -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5000mm "1" "1" "thermal(0S,1S)"]
+	Pin[-100.00mil 0.0000 2.3000mm 0.5000mm 2.6000mm 1.5000mm "1" "1" "thermal(0S,1S)"]
+	Pin[0.0000 0.0000 2.3000mm 0.5000mm 2.6000mm 1.5000mm "1" "1" "thermal(0S,1S)"]
+	Pin[100.00mil 0.0000 2.3000mm 0.5000mm 2.6000mm 1.5000mm "1" "1" "thermal(0S,1S)"]
+	Pin[-100.00mil 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5000mm "1" "1" "thermal(0S,1S)"]
+	Pin[0.0000 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5000mm "1" "1" "thermal(0S,1S)"]
+	Pin[100.00mil 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5000mm "1" "1" "thermal(0S,1S)"]
 	ElementLine [4.0000mm -4.0000mm 4.0000mm 4.0000mm 0.2500mm]
 	ElementLine [-4.0000mm -4.0000mm -4.0000mm 4.0000mm 0.2500mm]
 	ElementLine [-4.0000mm -4.0000mm 4.0000mm -4.0000mm 0.2500mm]
@@ -1217,22 +1217,22 @@ Element["" "WURTH_7461001_sr.fp" "TP4" "unknown" 35.6000mm 5.8000mm 0.0000 0.000
 
 	)
 
-Element["" "WURTH_7461001_sr.fp" "TP3" "unknown" 5.6000mm 5.8000mm 0.0000 0.0000 0 100 ""]
+Element["" "WURTH_7461001_sr.fp" "TP3" "unknown" 4.1000mm 5.8000mm 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "TESTPOINT")
 	Attribute("manufacturer" "unknown")
 	Attribute("manufacturer_part_number" "unknown")
 	Attribute("vendor" "unknown")
 	Attribute("vendor_part_number" "unknown")
-	Pin[-100.00mil -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[0.0000 -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[100.00mil -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[-100.00mil 0.0000 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[0.0000 0.0000 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[100.00mil 0.0000 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[-100.00mil 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[0.0000 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[100.00mil 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[-100.00mil -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[0.0000 -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[100.00mil -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[-100.00mil 0.0000 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[0.0000 0.0000 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[100.00mil 0.0000 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[-100.00mil 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[0.0000 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[100.00mil 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
 	ElementLine [4.0000mm -4.0000mm 4.0000mm 4.0000mm 0.2500mm]
 	ElementLine [-4.0000mm -4.0000mm -4.0000mm 4.0000mm 0.2500mm]
 	ElementLine [-4.0000mm -4.0000mm 4.0000mm -4.0000mm 0.2500mm]
@@ -1247,14 +1247,14 @@ Element["" "WURTH_7460305_sr.fp" "TP2" "unknown" 35.6000mm 17.0000mm 0.0000 0.00
 	Attribute("manufacturer_part_number" "unknown")
 	Attribute("vendor" "unknown")
 	Attribute("vendor_part_number" "unknown")
-	Pin[-150.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[-150.00mil 50.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[-150.00mil -50.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[-150.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[150.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[150.00mil 50.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[150.00mil -50.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
-	Pin[150.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[-150.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[-150.00mil 50.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[-150.00mil -50.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[-150.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[150.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[150.00mil 50.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[150.00mil -50.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
+	Pin[150.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S,1S)"]
 	ElementLine [-5.5000mm -5.5000mm 5.5000mm -5.5000mm 0.2500mm]
 	ElementLine [-5.5000mm 5.5000mm 5.5000mm 5.5000mm 0.2500mm]
 	ElementLine [-5.5000mm -5.5000mm -5.5000mm 5.5000mm 0.2500mm]
@@ -1269,14 +1269,14 @@ Element["" "WURTH_7460305_sr.fp" "TP1" "unknown" 5.6000mm 17.0000mm 40.00mil 10.
 	Attribute("manufacturer_part_number" "unknown")
 	Attribute("vendor" "unknown")
 	Attribute("vendor_part_number" "unknown")
-	Pin[-150.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S)"]
-	Pin[-50.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S)"]
-	Pin[50.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S)"]
-	Pin[150.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S)"]
-	Pin[-150.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S)"]
-	Pin[-50.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S)"]
-	Pin[50.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S)"]
-	Pin[150.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.5500mm "1" "1" "thermal(0S)"]
+	Pin[-150.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.6000mm "1" "1" "thermal(0S)"]
+	Pin[-50.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.6000mm "1" "1" "thermal(0S)"]
+	Pin[50.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.6000mm "1" "1" "thermal(0S)"]
+	Pin[150.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.6000mm "1" "1" "thermal(0S)"]
+	Pin[-150.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.6000mm "1" "1" "thermal(0S)"]
+	Pin[-50.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.6000mm "1" "1" "thermal(0S)"]
+	Pin[50.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.6000mm "1" "1" "thermal(0S)"]
+	Pin[150.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.6000mm "1" "1" "thermal(0S)"]
 	ElementLine [5.5000mm -5.5000mm 5.5000mm 5.5000mm 0.2500mm]
 	ElementLine [-5.5000mm -5.5000mm -5.5000mm 5.5000mm 0.2500mm]
 	ElementLine [-5.5000mm -5.5000mm 5.5000mm -5.5000mm 0.2500mm]
@@ -1559,6 +1559,29 @@ Element["" "NICHICON_CAP_10_10_sr.fp" "C5" "unknown" 46.4000mm 12.0000mm 0.0000 
 	ElementLine [-3.4500mm 6.2000mm 3.4500mm 6.2000mm 0.2000mm]
 	ElementLine [5.4500mm -6.2000mm 5.4500mm 4.2000mm 0.2000mm]
 	ElementLine [5.4500mm 4.2000mm 3.4500mm 6.2000mm 0.2000mm]
+
+	)
+
+Element["" "WURTH_7461001_sr.fp" "TP5" "unknown" 35.6000mm 5.8000mm 0.0000 0.0000 0 100 ""]
+(
+	Attribute("device" "TESTPOINT")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[-100.00mil -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[0.0000 -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[100.00mil -100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[-100.00mil 0.0000 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[0.0000 0.0000 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[100.00mil 0.0000 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[-100.00mil 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[0.0000 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	Pin[100.00mil 100.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" "thermal(0S,1S)"]
+	ElementLine [4.0000mm -4.0000mm 4.0000mm 4.0000mm 0.2500mm]
+	ElementLine [-4.0000mm -4.0000mm -4.0000mm 4.0000mm 0.2500mm]
+	ElementLine [-4.0000mm -4.0000mm 4.0000mm -4.0000mm 0.2500mm]
+	ElementLine [-4.0000mm 4.0000mm 4.0000mm 4.0000mm 0.2500mm]
 
 	)
 Layer(1 "component")
@@ -2103,7 +2126,7 @@ NetList()
 		Connect("Q1-1")
 		Connect("Q1-2")
 		Connect("Q1-3")
-		Connect("TP4-1")
+		Connect("TP5-1")
 	)
 	Net("unnamed_net1" "(unknown)")
 	(
@@ -2117,6 +2140,7 @@ NetList()
 		Connect("Q1-7")
 		Connect("Q1-8")
 		Connect("TP3-1")
+		Connect("TP4-1")
 	)
 	Net("unnamed_net3" "(unknown)")
 	(
