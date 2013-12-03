@@ -10,8 +10,8 @@ PolyArea[3100.006200]
 Thermal[0.500000]
 DRC[0.2000mm 0.2000mm 0.2000mm 0.2000mm 0.3000mm 0.2000mm]
 Flags("showdrc,nameonpcb,uniquename,clearnew,snappin,hidenames")
-Groups("1,c:2,s")
-Styles["Signal,0.4000mm,0.7000mm,0.3000mm,10.00mil:Power,0.5000mm,60.00mil,35.00mil,10.00mil:Fat,40.00mil,60.00mil,35.00mil,10.00mil:Skinny,0.2000mm,24.02mil,0.3000mm,6.00mil"]
+Groups("1,c:2,s:3")
+Styles["Signal,0.4000mm,0.7000mm,0.3000mm,10.00mil:Power,0.5000mm,60.00mil,35.00mil,10.00mil:Fat,40.00mil,60.00mil,35.00mil,10.00mil:Skinny,0.1000mm,24.02mil,0.3000mm,6.00mil"]
 
 Symbol[' ' 18.00mil]
 (
@@ -2100,10 +2100,17 @@ Layer(2 "solder")
 		[33.2000mm 22.5000mm] 
 	)
 )
-Layer(3 "silk")
+Layer(3 "outline")
 (
+	Line[0.0000 0.0000 52.0000mm 0.0000 0.1000mm 12.00mil "clearline"]
+	Line[52.0000mm 0.0000 52.0000mm 70.0000mm 0.1000mm 12.00mil "clearline"]
+	Line[52.0000mm 70.0000mm 0.0000 70.0000mm 0.1000mm 12.00mil "clearline"]
+	Line[0.0000 70.0000mm 0.0000 0.0000 0.1000mm 12.00mil "clearline"]
 )
 Layer(4 "silk")
+(
+)
+Layer(5 "silk")
 (
 )
 NetList()
