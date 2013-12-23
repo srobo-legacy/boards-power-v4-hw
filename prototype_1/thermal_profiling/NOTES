@@ -1,0 +1,42 @@
+Power testing
+
+Ambient: 19.4degC
+
+Input: 12.19V
+Output: 11.95V
+Current: 17.7A
+Load: 675mR
+
+Steady state temperature without fan: 105degC
+Steady state temperature with fan: 58degC
+
+Resistance of board: 13.56mR
+Power dissipated in board: 4.25W
+Thermal resistance of board without fan: 21.14deg/W
+Thermal resistance of board with fan: 9.08deg/W
+
+
+                          17.7A              Pd@20A  Pd@40A    31A              Pd@40A
+Input GND to output GND   60mV   (3.39mR)    1.36W   5.42W     130mV (4.19mR)   6.70W
+Input +V to fuse output   28mV   (1.58mR)    632mW   2.53W      50mV (1.61mR)   2.58W
+Fuse output to IC          4mV   (226uR)     90.4mW  362mW       7mV (226uR)    362mW
+IC to output               4mV   (226uR)     90.4mW  90.4mW      4mV (226uR)    90.4mW
+"                          4mV   (226uR)     N/A     90.4mW      4mV (226uR)    90.4mW
+IC +V to IC output       150mV   (8.47mR)    3.39W   3.39W     150mV (8.47mR)   3.39W
+"                        150mV   (8.47mR)    N/A     3.39W     150mV (8.47mR)   3.39W
+
+Total                                        5.56W   15.3W                      16.6W
+Temp rise with fan                           50.5deg 139deg                     151deg  (50deg with full-speed fan)
+
+
+--------
+
+Ambient: 21decC
+
+Input: 11.95V
+Output: 11.60V (17.7A), 11.65V (13.3A)
+Current: 31A
+Load: 675mR + 13.3A CC
+
+Resistance of board: 10.6mR
+Power dissipated in board: 10.2W
