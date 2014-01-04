@@ -31,7 +31,7 @@ Temp rise with fan                           50.5deg 139deg                     
 
 --------
 
-Ambient: 21decC
+Ambient: 21degC
 
 Input: 11.95V
 Output: 11.60V (17.7A), 11.65V (13.3A)
@@ -40,3 +40,74 @@ Load: 675mR + 13.3A CC
 
 Resistance of board: 10.6mR
 Power dissipated in board: 10.2W
+
+
+===========================
+
+Card cover with/without 40mm fan
+
+Ambient: 18.3degC
+
+No fan
+Input: 12.17V
+Output: 11.93V
+Current: 17.7A
+Pd: 4.25W
+Tmax: 84.1degC
+Thermal resistance: 15.5deg/W
+
+Fan
+Input: 12.17V
+Output: 11.93V
+Current: 17.7A
+Pd: 4.25W
+Tmax: 33.7degC
+Thermal resistance: 3.62deg/W
+
+Ambient: 19.4degC
+
+Fan (TC more wedged)
+Input: 11.90V
+Output: (17.14A) 11.55V, (12.96A) 11.60V
+Current: 30.1A
+Pd: 10.74W
+Tmax: 40.3degC
+Thermal resistance: 1.95deg/W
+
+Fan (TC more wedged)
+Input: 12.17V
+Output: 11.93V
+Current: 17.7A
+Pd: 4.25W
+Tmax: 31.8degC
+Thermal resistance: 2.92deg/W
+
+Ambient: 20.3degC
+
+Fan 12V - Underside
+Input: 12.17V
+Output: 11.94V
+Current: 17.7A
+Pd: 4.07W
+Tmax: 45.0degC
+Thermal resistance: 6.07deg/W
+
+Ambient: 20.5degC
+
+Fan 12V - Underside
+Input: 11.89V
+Output: (17.15A) 11.56V, (12.95A) 11.60V
+Current: 30.1A
+Pd: 9.42W
+Tmax: 51.9degC
+Thermal resistance: 3.33deg/W
+
+Ambient: 19.9degC
+
+Fan 9V - Underside
+Input: 11.88V
+Output: (17.14A) 11.55V, (12.96A) 11.59V
+Current: 30.1A
+Pd: 9.41W
+Tmax: 55.1degC
+Thermal resistance: 3.74degC/W
