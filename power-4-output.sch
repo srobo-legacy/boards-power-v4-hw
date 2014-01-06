@@ -1239,20 +1239,20 @@ value=OUTL3
 C 56200 54400 1 0 0 output-1.sym
 {
 T 57100 54600 5 10 0 0 0 0 1
-net=CS1:1
+net=CS0:1
 T 56400 55100 5 10 0 0 0 0 1
 device=none
 T 57100 54500 5 10 1 1 0 1 1
-value=CS1
+value=CS0
 }
 C 56200 53900 1 0 0 output-1.sym
 {
 T 57100 54100 5 10 0 0 0 0 1
-net=CS2:1
+net=CS1:1
 T 56400 54600 5 10 0 0 0 0 1
 device=none
 T 57100 54000 5 10 1 1 0 1 1
-value=CS2
+value=CS1
 }
 C 51200 56400 1 0 0 input-1.sym
 {
