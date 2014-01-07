@@ -759,7 +759,7 @@ C 49900 35900 1 0 0 gnd-1.sym
 N 48500 36200 51500 36200 4
 N 49700 38000 48500 38000 4
 {
-T 48600 38000 5 10 1 1 0 0 1
+T 48800 38000 5 10 1 1 0 0 1
 netname=CS0RAW
 }
 N 51500 38000 50600 38000 4
@@ -841,7 +841,7 @@ C 54700 35900 1 0 0 gnd-1.sym
 N 53300 36200 56300 36200 4
 N 54500 38000 53300 38000 4
 {
-T 53400 38000 5 10 1 1 0 0 1
+T 53600 38000 5 10 1 1 0 0 1
 netname=CS1RAW
 }
 N 56300 38000 55400 38000 4
@@ -1289,4 +1289,228 @@ T 56400 55600 5 10 0 0 0 0 1
 device=none
 T 56300 55000 5 10 1 1 0 7 1
 value=CSDIS3
+}
+C 77000 56100 1 270 0 test-point.sym
+{
+T 77500 56000 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 55700 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 52600 1 270 0 test-point.sym
+{
+T 77500 52500 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 52200 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 47400 1 270 0 test-point.sym
+{
+T 77500 47300 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 47000 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 50900 1 270 0 test-point.sym
+{
+T 77500 50800 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 50500 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 46500 1 270 0 test-point.sym
+{
+T 77500 46400 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 46100 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 44600 1 270 0 test-point.sym
+{
+T 77500 44500 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 44200 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 42000 1 270 0 test-point.sym
+{
+T 77500 41900 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 41600 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 43900 1 270 0 test-point.sym
+{
+T 77500 43800 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 43500 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 39400 1 270 0 test-point.sym
+{
+T 77500 39300 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 39000 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 41300 1 270 0 test-point.sym
+{
+T 77500 41200 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 40900 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 36800 1 270 0 test-point.sym
+{
+T 77500 36700 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 36400 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 77000 38700 1 270 0 test-point.sym
+{
+T 77500 38600 5 10 1 1 0 1 1
+refdes=TP?
+T 77900 38300 5 10 0 0 270 0 1
+device=TESTPOINT
+}
+C 62900 56500 1 0 0 test-point.sym
+{
+T 63000 57000 5 10 1 1 0 3 1
+refdes=TP?
+T 63300 57400 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 62900 51300 1 0 0 test-point.sym
+{
+T 63000 51800 5 10 1 1 0 3 1
+refdes=TP?
+T 63300 52200 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 62900 46400 1 0 0 test-point.sym
+{
+T 63000 46900 5 10 1 1 0 3 1
+refdes=TP?
+T 63300 47300 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 62900 41200 1 0 0 test-point.sym
+{
+T 63000 41700 5 10 1 1 0 3 1
+refdes=TP?
+T 63300 42100 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 53200 38000 1 0 0 test-point.sym
+{
+T 53300 38500 5 10 1 1 0 3 1
+refdes=TP?
+T 53600 38900 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 56200 38000 1 0 0 test-point.sym
+{
+T 56300 38500 5 10 1 1 0 3 1
+refdes=TP?
+T 56600 38900 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 48400 38000 1 0 0 test-point.sym
+{
+T 48500 38500 5 10 1 1 0 3 1
+refdes=TP?
+T 48800 38900 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 51400 38000 1 0 0 test-point.sym
+{
+T 51500 38500 5 10 1 1 0 3 1
+refdes=TP?
+T 51800 38900 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 50900 42200 1 0 0 test-point.sym
+{
+T 51000 42700 5 10 1 1 0 3 1
+refdes=TP?
+T 51300 43100 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 55400 42200 1 0 0 test-point.sym
+{
+T 55500 42700 5 10 1 1 0 3 1
+refdes=TP?
+T 55800 43100 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 50900 46700 1 0 0 test-point.sym
+{
+T 51000 47200 5 10 1 1 0 3 1
+refdes=TP?
+T 51300 47600 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 55400 46700 1 0 0 test-point.sym
+{
+T 55500 47200 5 10 1 1 0 3 1
+refdes=TP?
+T 55800 47600 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 50900 51200 1 0 0 test-point.sym
+{
+T 51000 51700 5 10 1 1 0 3 1
+refdes=TP?
+T 51300 52100 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 55400 51200 1 0 0 test-point.sym
+{
+T 55500 51700 5 10 1 1 0 3 1
+refdes=TP?
+T 55800 52100 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 58900 53600 1 0 0 test-point.sym
+{
+T 59000 54100 5 10 1 1 0 3 1
+refdes=TP?
+T 59300 54500 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 58900 48400 1 0 0 test-point.sym
+{
+T 59000 48900 5 10 1 1 0 3 1
+refdes=TP?
+T 59300 49300 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 58900 45500 1 0 0 test-point.sym
+{
+T 59000 46000 5 10 1 1 0 3 1
+refdes=TP?
+T 59300 46400 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 58900 43200 1 0 0 test-point.sym
+{
+T 59000 43700 5 10 1 1 0 3 1
+refdes=TP?
+T 59300 44100 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 58900 40300 1 0 0 test-point.sym
+{
+T 59000 40800 5 10 1 1 0 3 1
+refdes=TP?
+T 59300 41200 5 10 0 0 0 0 1
+device=TESTPOINT
+}
+C 58900 38000 1 0 0 test-point.sym
+{
+T 59000 38500 5 10 1 1 0 3 1
+refdes=TP?
+T 59300 38900 5 10 0 0 0 0 1
+device=TESTPOINT
 }
