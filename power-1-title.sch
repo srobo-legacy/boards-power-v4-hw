@@ -162,6 +162,6 @@ T 41500 55900 9 14 1 0 0 0 6
 Quiescent Current
 
 The UVLO activates when the cell voltage reaches ~3.2V (9.6V total),
-leaving around 50mAh of charge in the battery (2200mAh battery).
+leaving around 20mAh of charge in the battery (2200mAh battery).
 The quiescent current at 9.6V will be ~38µA, giving a run time of approximately
-55 days until the battery is potentially damaged.
+22 days until the battery is potentially damaged.
