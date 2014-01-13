@@ -303,15 +303,6 @@ device=RESISTOR
 T 69900 55200 5 10 1 1 0 0 1
 refdes=R?
 }
-C 69400 54200 1 270 0 led-1.sym
-{
-T 70000 53400 5 10 0 0 270 0 1
-device=LED
-T 70200 53800 5 10 1 1 0 0 1
-refdes=DS?
-T 70200 53400 5 10 0 0 270 0 1
-symversion=0.1
-}
 C 74500 54800 1 270 0 capacitor-np-1.sym
 {
 T 75200 54600 5 10 0 0 270 0 1
@@ -347,15 +338,6 @@ device=RESISTOR
 T 69900 50000 5 10 1 1 0 0 1
 refdes=R?
 }
-C 69400 49000 1 270 0 led-1.sym
-{
-T 70000 48200 5 10 0 0 270 0 1
-device=LED
-T 70200 48200 5 10 0 0 270 0 1
-symversion=0.1
-T 70200 48600 5 10 1 1 0 0 1
-refdes=DS?
-}
 C 74500 49600 1 270 0 capacitor-np-1.sym
 {
 T 75200 49400 5 10 0 0 270 0 1
@@ -390,15 +372,6 @@ T 69850 46000 5 10 0 0 270 0 1
 device=RESISTOR
 T 69900 46000 5 10 1 1 0 0 1
 refdes=R?
-}
-C 69400 45500 1 270 0 led-1.sym
-{
-T 70000 44700 5 10 0 0 270 0 1
-device=LED
-T 70200 44700 5 10 0 0 270 0 1
-symversion=0.1
-T 70200 45100 5 10 1 1 0 0 1
-refdes=DS?
 }
 C 74500 45900 1 270 0 capacitor-np-1.sym
 {
@@ -436,15 +409,6 @@ device=RESISTOR
 T 69900 43400 5 10 1 1 0 0 1
 refdes=R?
 }
-C 69400 42900 1 270 0 led-1.sym
-{
-T 70000 42100 5 10 0 0 270 0 1
-device=LED
-T 70200 42100 5 10 0 0 270 0 1
-symversion=0.1
-T 70200 42500 5 10 1 1 0 0 1
-refdes=DS?
-}
 C 74500 43300 1 270 0 capacitor-np-1.sym
 {
 T 75200 43100 5 10 0 0 270 0 1
@@ -477,15 +441,6 @@ T 69850 40800 5 10 0 0 270 0 1
 device=RESISTOR
 T 69900 40800 5 10 1 1 0 0 1
 refdes=R?
-}
-C 69400 40300 1 270 0 led-1.sym
-{
-T 70000 39500 5 10 0 0 270 0 1
-device=LED
-T 70200 39500 5 10 0 0 270 0 1
-symversion=0.1
-T 70200 39900 5 10 1 1 0 0 1
-refdes=DS?
 }
 C 74500 40700 1 270 0 capacitor-np-1.sym
 {
@@ -522,15 +477,6 @@ T 69850 38200 5 10 0 0 270 0 1
 device=RESISTOR
 T 69900 38200 5 10 1 1 0 0 1
 refdes=R?
-}
-C 69400 37700 1 270 0 led-1.sym
-{
-T 70000 36900 5 10 0 0 270 0 1
-device=LED
-T 70200 36900 5 10 0 0 270 0 1
-symversion=0.1
-T 70200 37300 5 10 1 1 0 0 1
-refdes=DS?
 }
 C 74500 38100 1 270 0 capacitor-np-1.sym
 {
@@ -1525,4 +1471,70 @@ T 58300 37200 5 10 1 1 0 0 1
 refdes=RN?
 T 59250 37600 5 10 0 0 270 0 1
 slot=4
+}
+C 69400 49000 1 270 0 led-dual-1.sym
+{
+T 71300 48900 5 10 0 0 270 0 1
+device=LED
+T 70200 48600 5 10 1 1 0 0 1
+refdes=DS?
+T 70900 48900 5 10 0 0 270 0 1
+footprint=dual_led
+T 70500 48900 5 10 0 0 270 0 1
+slot=2
+}
+C 69400 54200 1 270 0 led-dual-1.sym
+{
+T 71300 54100 5 10 0 0 270 0 1
+device=LED
+T 70200 53800 5 10 1 1 0 0 1
+refdes=DS?
+T 70900 54100 5 10 0 0 270 0 1
+footprint=dual_led
+T 70500 54100 5 10 0 0 270 0 1
+slot=2
+}
+C 69400 45500 1 270 0 led-dual-1.sym
+{
+T 71300 45400 5 10 0 0 270 0 1
+device=LED
+T 70200 45100 5 10 1 1 0 0 1
+refdes=DS?
+T 70900 45400 5 10 0 0 270 0 1
+footprint=dual_led
+T 70500 45400 5 10 0 0 270 0 1
+slot=2
+}
+C 69400 42900 1 270 0 led-dual-1.sym
+{
+T 71300 42800 5 10 0 0 270 0 1
+device=LED
+T 70200 42500 5 10 1 1 0 0 1
+refdes=DS?
+T 70900 42800 5 10 0 0 270 0 1
+footprint=dual_led
+T 70500 42800 5 10 0 0 270 0 1
+slot=2
+}
+C 69400 40300 1 270 0 led-dual-1.sym
+{
+T 71300 40200 5 10 0 0 270 0 1
+device=LED
+T 70200 39900 5 10 1 1 0 0 1
+refdes=DS?
+T 70900 40200 5 10 0 0 270 0 1
+footprint=dual_led
+T 70500 40200 5 10 0 0 270 0 1
+slot=2
+}
+C 69400 37700 1 270 0 led-dual-1.sym
+{
+T 71300 37600 5 10 0 0 270 0 1
+device=LED
+T 70200 37300 5 10 1 1 0 0 1
+refdes=DS?
+T 70900 37600 5 10 0 0 270 0 1
+footprint=dual_led
+T 70500 37600 5 10 0 0 270 0 1
+slot=2
 }
