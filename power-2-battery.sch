@@ -17,7 +17,7 @@ C 55900 49400 1 0 0 fuse-1.sym
 T 56100 49950 5 10 0 0 0 0 1
 device=FUSE
 T 56100 49700 5 10 1 1 0 0 1
-refdes=F?
+refdes=F1
 T 56100 50150 5 10 0 0 0 0 1
 symversion=0.1
 }
@@ -26,42 +26,42 @@ C 57100 43800 1 0 1 nmos-pqfn-1.sym
 T 56875 45350 5 10 0 0 180 2 1
 device=NMOS_TRANSISTOR
 T 56200 44400 5 10 1 1 180 2 1
-refdes=Q?
+refdes=Q1
 }
 C 62200 42600 1 90 0 zener-1.sym
 {
 T 61600 43000 5 10 0 0 90 0 1
 device=DIODE
 T 62400 43100 5 10 1 1 0 0 1
-refdes=D?
+refdes=D2
 }
 C 62100 45400 1 90 0 resistor-iec-1.sym
 {
 T 61750 45800 5 10 0 0 90 0 1
 device=RESISTOR
 T 62300 45900 5 10 1 1 0 0 1
-refdes=R?
+refdes=R5
 T 62300 45700 5 10 1 1 0 0 1
 value=sr-r-100k
 }
 C 53200 49500 1 0 0 bushing.sym
 {
 T 53200 50200 5 10 1 1 0 0 1
-refdes=J?
+refdes=J1
 T 53600 50400 5 10 0 0 0 0 1
 device=BUSHING
 }
 C 59200 49500 1 0 0 bushing.sym
 {
 T 59200 50200 5 10 1 1 0 0 1
-refdes=J?
+refdes=J2
 T 59600 50400 5 10 0 0 0 0 1
 device=BUSHING
 }
 C 53600 45000 1 180 0 bushing.sym
 {
 T 53200 44300 5 10 1 1 0 2 1
-refdes=J?
+refdes=J3
 T 53200 44100 5 10 0 0 180 0 1
 device=BUSHING
 }
@@ -70,14 +70,14 @@ C 49300 47800 1 270 0 battery-3cell-1.sym
 T 50000 47500 5 10 0 0 270 0 1
 device=BATTERY
 T 49800 47300 5 10 1 1 0 0 1
-refdes=B?
+refdes=B1
 T 50250 47500 5 10 0 0 270 0 1
 symversion=0.1
 }
 C 54600 47800 1 270 0 tvs-bidirectonal-1.sym
 {
 T 55300 47400 5 10 1 1 0 0 1
-refdes=D?
+refdes=D1
 T 55900 47800 5 10 0 0 270 0 1
 device=TVS_DIODE
 }
@@ -86,7 +86,7 @@ C 51700 47800 1 270 0 capacitor-np-1.sym
 T 52400 47600 5 10 0 0 270 0 1
 device=CAPACITOR
 T 52300 47400 5 10 1 1 0 0 1
-refdes=C?
+refdes=C1
 T 52600 47600 5 10 0 0 270 0 1
 symversion=0.1
 }
@@ -95,7 +95,7 @@ C 60300 43800 1 0 1 nmos-pqfn-1.sym
 T 60075 45350 5 10 0 0 180 2 1
 device=NMOS_TRANSISTOR
 T 59400 44400 5 10 1 1 180 2 1
-refdes=Q?
+refdes=Q2
 }
 N 49500 47800 49500 49500 4
 N 49500 49500 55900 49500 4
@@ -123,7 +123,7 @@ C 71400 48900 1 270 0 capacitor-p-1.sym
 T 72500 48700 5 10 0 0 270 0 1
 device=POLARIZED_CAPACITOR
 T 72000 48500 5 10 1 1 0 0 1
-refdes=C?
+refdes=C2
 T 72100 48700 5 10 0 0 270 0 1
 symversion=0.1
 }
@@ -142,14 +142,14 @@ C 65600 49900 1 0 0 resistor-iec-1.sym
 T 66000 50250 5 10 0 0 0 0 1
 device=RESISTOR
 T 65800 50400 5 10 1 1 0 0 1
-refdes=R?
+refdes=R1
 }
 C 65600 48900 1 0 0 resistor-iec-1.sym
 {
 T 66000 49250 5 10 0 0 0 0 1
 device=RESISTOR
 T 65800 49400 5 10 1 1 0 0 1
-refdes=R?
+refdes=R2
 }
 N 65600 49000 65100 49000 4
 N 65100 49000 65100 50000 4
@@ -163,14 +163,14 @@ C 64500 48200 1 270 0 resistor-iec-1.sym
 T 64850 47800 5 10 0 0 270 0 1
 device=RESISTOR
 T 64900 47800 5 10 1 1 0 0 1
-refdes=R?
+refdes=R3
 }
 C 67400 48300 1 270 0 resistor-iec-1.sym
 {
 T 67750 47900 5 10 0 0 270 0 1
 device=RESISTOR
 T 67800 47900 5 10 1 1 0 0 1
-refdes=R?
+refdes=R4
 }
 N 64600 48200 64600 49000 4
 N 64600 49000 65100 49500 4
@@ -181,7 +181,7 @@ C 65600 46300 1 0 0 capacitor-np-1.sym
 T 65800 47000 5 10 0 0 0 0 1
 device=CAPACITOR
 T 65700 47000 5 10 1 1 0 0 1
-refdes=C?
+refdes=C3
 T 65800 47200 5 10 0 0 0 0 1
 symversion=0.1
 }
@@ -222,7 +222,7 @@ C 71900 46000 1 270 0 capacitor-np-1.sym
 T 72600 45800 5 10 0 0 270 0 1
 device=CAPACITOR
 T 72500 45600 5 10 1 1 0 0 1
-refdes=C?
+refdes=C4
 T 72800 45800 5 10 0 0 270 0 1
 symversion=0.1
 }
@@ -231,7 +231,7 @@ C 68400 43300 1 0 0 INA219-1.sym
 T 68700 45400 5 10 0 0 0 0 1
 device=INA219
 T 68700 45000 5 10 1 1 0 0 1
-refdes=U?
+refdes=U1
 }
 C 67900 43200 1 0 0 gnd-1.sym
 C 71500 47100 1 0 0 gnd-1.sym
@@ -257,63 +257,63 @@ N 71400 43800 71400 43500 4
 C 52200 49500 1 0 0 test-point.sym
 {
 T 52300 50000 5 10 1 1 0 3 1
-refdes=TP?
+refdes=TP1
 T 52600 50400 5 10 0 0 0 0 1
 device=TESTPOINT
 }
 C 52400 45000 1 180 0 test-point.sym
 {
 T 52300 44500 5 10 1 1 0 5 1
-refdes=TP?
+refdes=TP4
 T 52000 44100 5 10 0 0 180 0 1
 device=TESTPOINT
 }
 C 60900 49500 1 0 0 test-point.sym
 {
 T 61000 50000 5 10 1 1 0 3 1
-refdes=TP?
+refdes=TP2
 T 61300 50400 5 10 0 0 0 0 1
 device=TESTPOINT
 }
 C 60600 45100 1 270 0 test-point.sym
 {
 T 61100 45000 5 10 1 1 0 1 1
-refdes=TP?
+refdes=TP7
 T 61500 44700 5 10 0 0 270 0 1
 device=TESTPOINT
 }
 C 58300 42000 1 180 0 test-point.sym
 {
 T 58200 41500 5 10 1 1 0 5 1
-refdes=TP?
+refdes=TP9
 T 57900 41100 5 10 0 0 180 0 1
 device=TESTPOINT
 }
 C 59300 43300 1 180 0 test-point.sym
 {
 T 59200 42800 5 10 1 1 0 5 1
-refdes=TP?
+refdes=TP8
 T 58900 42400 5 10 0 0 180 0 1
 device=TESTPOINT
 }
 C 64600 45700 1 90 0 test-point.sym
 {
 T 64100 45800 5 10 1 1 0 7 1
-refdes=TP?
+refdes=TP5
 T 63700 46100 5 10 0 0 90 0 1
 device=TESTPOINT
 }
 C 67500 45900 1 270 0 test-point.sym
 {
 T 68000 45800 5 10 1 1 0 1 1
-refdes=TP?
+refdes=TP6
 T 68400 45500 5 10 0 0 270 0 1
 device=TESTPOINT
 }
 C 72400 49500 1 0 0 test-point.sym
 {
 T 72500 50000 5 10 1 1 0 3 1
-refdes=TP?
+refdes=TP3
 T 72800 50400 5 10 0 0 0 0 1
 device=TESTPOINT
 }
@@ -322,7 +322,7 @@ C 73800 46000 1 270 0 capacitor-np-1.sym
 T 74500 45800 5 10 0 0 270 0 1
 device=CAPACITOR
 T 74400 45600 5 10 1 1 0 0 1
-refdes=C?
+refdes=C5
 T 74700 45800 5 10 0 0 270 0 1
 symversion=0.1
 }
@@ -341,7 +341,7 @@ C 65300 41200 1 0 0 tvs-dual-unidirectional-1.sym
 T 65400 43200 5 10 0 0 0 0 1
 device=TVS_DIODE
 T 66700 41900 5 10 1 1 0 0 1
-refdes=D?
+refdes=D3
 }
 N 65600 42300 65600 44100 4
 N 66400 42300 66400 44400 4
