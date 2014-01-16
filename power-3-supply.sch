@@ -790,3 +790,16 @@ value=sr-c-100n-0402-16v
 N 54800 45800 54800 45500 4
 N 54800 46700 54800 48000 4
 N 54800 48000 57300 48000 4
+T 63400 50400 9 10 1 0 0 0 12
+TPS62125 has an enable comparator with a rising threshold of 1.2V and falling threshold
+of 1.15V. The EN_hys pin is pulled low when the SMPS is disabled, therefore allowing
+for additional hysteresis to be added with an external resistor.
+
+The values chosen give a rising supply threshold of 11.1V and a falling threshold of 9.6V.
+This should ensure that the board does not turn on if an almost flat battery is connected
+and that once the UVLO has tripped, it will not oscillate as the battery voltage recovers
+slightly.
+
+The capacitor connected to the EN pin forms a low-pass filter with the resistors, having
+a time constant of 56ms. This is to prevent false triggering of the UVLO when outputs
+connected to large capacitances are turned on. This allows for up to 400mF on an output.
