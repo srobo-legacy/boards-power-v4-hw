@@ -1204,6 +1204,8 @@ T 77500 56000 5 10 1 1 0 1 1
 refdes=TP19
 T 77900 55700 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 56100 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 52600 1 270 0 test-point.sym
 {
@@ -1211,6 +1213,8 @@ T 77500 52500 5 10 1 1 0 1 1
 refdes=TP24
 T 77900 52200 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 52600 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 47400 1 270 0 test-point.sym
 {
@@ -1218,6 +1222,8 @@ T 77500 47300 5 10 1 1 0 1 1
 refdes=TP30
 T 77900 47000 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 47400 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 50900 1 270 0 test-point.sym
 {
@@ -1225,6 +1231,8 @@ T 77500 50800 5 10 1 1 0 1 1
 refdes=TP25
 T 77900 50500 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 50900 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 46500 1 270 0 test-point.sym
 {
@@ -1232,6 +1240,8 @@ T 77500 46400 5 10 1 1 0 1 1
 refdes=TP32
 T 77900 46100 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 46500 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 44600 1 270 0 test-point.sym
 {
@@ -1239,6 +1249,8 @@ T 77500 44500 5 10 1 1 0 1 1
 refdes=TP35
 T 77900 44200 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 44600 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 42000 1 270 0 test-point.sym
 {
@@ -1246,6 +1258,8 @@ T 77500 41900 5 10 1 1 0 1 1
 refdes=TP40
 T 77900 41600 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 42000 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 43900 1 270 0 test-point.sym
 {
@@ -1253,6 +1267,8 @@ T 77500 43800 5 10 1 1 0 1 1
 refdes=TP37
 T 77900 43500 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 43900 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 39400 1 270 0 test-point.sym
 {
@@ -1260,6 +1276,8 @@ T 77500 39300 5 10 1 1 0 1 1
 refdes=TP47
 T 77900 39000 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 39400 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 41300 1 270 0 test-point.sym
 {
@@ -1267,6 +1285,8 @@ T 77500 41200 5 10 1 1 0 1 1
 refdes=TP41
 T 77900 40900 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 41300 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 36800 1 270 0 test-point.sym
 {
@@ -1274,6 +1294,8 @@ T 77500 36700 5 10 1 1 0 1 1
 refdes=TP49
 T 77900 36400 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 36800 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 77000 38700 1 270 0 test-point.sym
 {
@@ -1281,6 +1303,8 @@ T 77500 38600 5 10 1 1 0 1 1
 refdes=TP48
 T 77900 38300 5 10 0 0 270 0 1
 device=TESTPOINT
+T 77000 38700 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 63600 56500 1 0 0 test-point.sym
 {
@@ -1288,6 +1312,8 @@ T 63700 57000 5 10 1 1 0 3 1
 refdes=TP18
 T 64000 57400 5 10 0 0 0 0 1
 device=TESTPOINT
+T 63600 56500 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 63600 51300 1 0 0 test-point.sym
 {
@@ -1295,6 +1321,8 @@ T 63700 51800 5 10 1 1 0 3 1
 refdes=TP23
 T 64000 52200 5 10 0 0 0 0 1
 device=TESTPOINT
+T 63600 51300 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 63600 46400 1 0 0 test-point.sym
 {
@@ -1302,6 +1330,8 @@ T 63700 46900 5 10 1 1 0 3 1
 refdes=TP29
 T 64000 47300 5 10 0 0 0 0 1
 device=TESTPOINT
+T 63600 46400 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 63600 41200 1 0 0 test-point.sym
 {
@@ -1309,6 +1339,8 @@ T 63700 41700 5 10 1 1 0 3 1
 refdes=TP38
 T 64000 42100 5 10 0 0 0 0 1
 device=TESTPOINT
+T 63600 41200 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 52900 39000 1 0 0 test-point.sym
 {
@@ -1316,6 +1348,8 @@ T 53000 39500 5 10 1 1 0 3 1
 refdes=TP44
 T 53300 39900 5 10 0 0 0 0 1
 device=TESTPOINT
+T 52900 39000 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 56100 37400 1 270 0 test-point.sym
 {
@@ -1323,6 +1357,8 @@ T 56600 37300 5 10 1 1 0 1 1
 refdes=TP45
 T 57000 37000 5 10 0 0 270 0 1
 device=TESTPOINT
+T 56100 37400 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 47900 39000 1 0 0 test-point.sym
 {
@@ -1330,6 +1366,8 @@ T 48000 39500 5 10 1 1 0 3 1
 refdes=TP42
 T 48300 39900 5 10 0 0 0 0 1
 device=TESTPOINT
+T 47900 39000 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 51100 37300 1 270 0 test-point.sym
 {
@@ -1337,6 +1375,8 @@ T 51600 37200 5 10 1 1 0 1 1
 refdes=TP43
 T 52000 36900 5 10 0 0 270 0 1
 device=TESTPOINT
+T 51100 37300 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 50900 42200 1 0 0 test-point.sym
 {
@@ -1344,6 +1384,8 @@ T 51000 42700 5 10 1 1 0 3 1
 refdes=TP34
 T 51300 43100 5 10 0 0 0 0 1
 device=TESTPOINT
+T 50900 42200 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 55400 42200 1 0 0 test-point.sym
 {
@@ -1351,6 +1393,8 @@ T 55500 42700 5 10 1 1 0 3 1
 refdes=TP36
 T 55800 43100 5 10 0 0 0 0 1
 device=TESTPOINT
+T 55400 42200 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 50900 46700 1 0 0 test-point.sym
 {
@@ -1358,6 +1402,8 @@ T 51000 47200 5 10 1 1 0 3 1
 refdes=TP27
 T 51300 47600 5 10 0 0 0 0 1
 device=TESTPOINT
+T 50900 46700 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 55400 46700 1 0 0 test-point.sym
 {
@@ -1365,6 +1411,8 @@ T 55500 47200 5 10 1 1 0 3 1
 refdes=TP28
 T 55800 47600 5 10 0 0 0 0 1
 device=TESTPOINT
+T 55400 46700 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 50900 51200 1 0 0 test-point.sym
 {
@@ -1372,6 +1420,8 @@ T 51000 51700 5 10 1 1 0 3 1
 refdes=TP21
 T 51300 52100 5 10 0 0 0 0 1
 device=TESTPOINT
+T 50900 51200 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 55400 51200 1 0 0 test-point.sym
 {
@@ -1379,6 +1429,8 @@ T 55500 51700 5 10 1 1 0 3 1
 refdes=TP22
 T 55800 52100 5 10 0 0 0 0 1
 device=TESTPOINT
+T 55400 51200 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 60500 53600 1 0 0 test-point.sym
 {
@@ -1386,6 +1438,8 @@ T 60600 54100 5 10 1 1 0 3 1
 refdes=TP20
 T 60900 54500 5 10 0 0 0 0 1
 device=TESTPOINT
+T 60500 53600 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 60500 48400 1 0 0 test-point.sym
 {
@@ -1393,6 +1447,8 @@ T 60600 48900 5 10 1 1 0 3 1
 refdes=TP26
 T 60900 49300 5 10 0 0 0 0 1
 device=TESTPOINT
+T 60500 48400 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 58500 45500 1 0 0 test-point.sym
 {
@@ -1400,6 +1456,8 @@ T 58600 46000 5 10 1 1 0 3 1
 refdes=TP31
 T 58900 46400 5 10 0 0 0 0 1
 device=TESTPOINT
+T 58500 45500 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 60500 43200 1 0 0 test-point.sym
 {
@@ -1407,6 +1465,8 @@ T 60600 43700 5 10 1 1 0 3 1
 refdes=TP33
 T 60900 44100 5 10 0 0 0 0 1
 device=TESTPOINT
+T 60500 43200 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 58500 40300 1 0 0 test-point.sym
 {
@@ -1414,6 +1474,8 @@ T 58600 40800 5 10 1 1 0 3 1
 refdes=TP39
 T 58900 41200 5 10 0 0 0 0 1
 device=TESTPOINT
+T 58500 40300 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 60500 38000 1 0 0 test-point.sym
 {
@@ -1421,6 +1483,8 @@ T 60600 38500 5 10 1 1 0 3 1
 refdes=TP46
 T 60900 38900 5 10 0 0 0 0 1
 device=TESTPOINT
+T 60500 38000 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 71900 53800 1 0 0 tvs-unidirectional-1.sym
 {
