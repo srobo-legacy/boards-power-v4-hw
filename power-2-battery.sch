@@ -343,7 +343,7 @@ refdes=C5
 T 75300 45800 5 10 0 0 270 0 1
 symversion=0.1
 T 75000 45400 5 10 1 1 0 0 1
-value=sr-c-1u-0603-16v
+value=sr-c-1u-0402-10v
 }
 C 74500 44800 1 0 0 gnd-1.sym
 C 77200 45900 1 0 1 input-1.sym

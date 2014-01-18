@@ -337,17 +337,6 @@ refdes=R11
 T 75600 48200 5 10 1 1 0 0 1
 value=sr-r-100-0402
 }
-C 75100 47500 1 270 0 led-1.sym
-{
-T 75700 46700 5 10 0 0 270 0 1
-device=LED
-T 75900 46700 5 10 0 0 270 0 1
-symversion=0.1
-T 75900 47100 5 10 1 1 0 0 1
-refdes=DS1
-T 75900 46900 5 10 1 1 0 0 1
-value=sr-led-green-0805
-}
 N 75300 47500 75300 47900 4
 N 75300 48800 75300 49200 4
 C 75200 45900 1 0 0 gnd-1.sym
@@ -641,11 +630,11 @@ refdes=TP15
 T 67000 44600 5 10 0 0 0 0 1
 device=TESTPOINT
 }
-C 76700 43700 1 0 0 test-point.sym
+C 75500 43700 1 0 0 test-point.sym
 {
-T 76800 44200 5 10 1 1 0 3 1
+T 75600 44200 5 10 1 1 0 3 1
 refdes=TP16
-T 77100 44600 5 10 0 0 0 0 1
+T 75900 44600 5 10 0 0 0 0 1
 device=TESTPOINT
 }
 C 77200 40700 1 0 0 tvs-unidirectional-1.sym
@@ -857,3 +846,16 @@ a time constant of 56ms. This is to prevent false triggering of the UVLO when ou
 connected to large capacitances are turned on. This allows for up to 400mF on an output.
 N 64600 39700 67500 39700 4
 N 67500 39700 67500 43700 4
+C 75100 47500 1 270 0 led-dual-1.sym
+{
+T 77000 47400 5 10 0 0 270 0 1
+device=LED
+T 75800 47100 5 10 1 1 0 0 1
+refdes=DS1
+T 76600 47400 5 10 0 0 270 0 1
+footprint=dual_led
+T 76200 47400 5 10 0 0 270 0 1
+slot=2
+T 75800 46900 5 10 1 1 0 0 1
+value=sr-led-redgreen-0805
+}
