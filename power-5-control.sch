@@ -1274,7 +1274,7 @@ refdes=DS3
 T 50300 36600 5 10 0 0 270 0 1
 footprint=dual_led
 T 49600 36100 5 10 1 1 0 0 1
-value=sr-led-redgreen-0805
+value=sr-nothing
 }
 C 51800 36700 1 270 0 led-dual-1.sym
 {
@@ -1285,7 +1285,7 @@ refdes=DS4
 T 53300 36600 5 10 0 0 270 0 1
 footprint=dual_led
 T 52600 36100 5 10 1 1 0 0 1
-value=sr-led-redgreen-0805
+value=sr-nothing
 }
 C 54800 36700 1 270 0 led-dual-1.sym
 {
@@ -1296,7 +1296,7 @@ refdes=DS5
 T 56300 36600 5 10 0 0 270 0 1
 footprint=dual_led
 T 55600 36100 5 10 1 1 0 0 1
-value=sr-led-redgreen-0805
+value=sr-nothing
 }
 C 57800 36700 1 270 0 led-dual-1.sym
 {
@@ -1307,7 +1307,7 @@ refdes=DS6
 T 59300 36600 5 10 0 0 270 0 1
 footprint=dual_led
 T 58600 36100 5 10 1 1 0 0 1
-value=sr-led-redgreen-0805
+value=sr-nothing
 }
 C 60800 36700 1 270 0 led-dual-1.sym
 {
@@ -1318,7 +1318,7 @@ refdes=DS7
 T 62300 36600 5 10 0 0 270 0 1
 footprint=dual_led
 T 61600 36100 5 10 1 1 0 0 1
-value=sr-led-redgreen-0805
+value=sr-nothing
 }
 C 63800 36700 1 270 0 led-dual-1.sym
 {
@@ -1329,7 +1329,7 @@ refdes=DS8
 T 65300 36600 5 10 0 0 270 0 1
 footprint=dual_led
 T 64600 36100 5 10 1 1 0 0 1
-value=sr-led-redgreen-0805
+value=sr-nothing
 }
 C 70800 38700 1 0 0 3V3-plus-1.sym
 C 73800 38700 1 0 0 3V3-plus-1.sym
@@ -1373,7 +1373,7 @@ refdes=DS1
 T 72300 38600 5 10 0 0 270 0 1
 footprint=dual_led
 T 71600 38100 5 10 1 1 0 0 1
-value=sr-led-redgreen-0805
+value=sr-nothing
 }
 C 73800 38700 1 270 0 led-dual-1.sym
 {
@@ -1399,3 +1399,8 @@ footprint=dual_led
 T 77600 38100 5 10 1 1 0 0 1
 value=sr-led-redgreen-0805
 }
+T 66000 35100 9 10 1 0 0 0 4
+The LEDs marked 'sr-nothing' have their value set on the
+power-3-supply.sch and power-4-output.sch pages.
+This is due to the inability of the BOM generation script
+to detect slotted symbols across schematics files.
