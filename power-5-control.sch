@@ -125,6 +125,8 @@ T 75400 56100 5 10 1 1 0 0 1
 refdes=C53
 T 75400 55900 5 10 1 1 0 0 1
 value=sr-c-22u-0805-10v
+T 74800 56500 5 10 0 0 0 0 1
+footprint=0805_sr.fp
 }
 C 65900 55300 1 0 0 gnd-1.sym
 N 65000 55600 75000 55600 4
@@ -444,6 +446,8 @@ T 51400 44400 5 10 0 0 270 0 1
 symversion=0.1
 T 51100 44000 5 10 1 1 0 0 1
 value=sr-c-100n-0603-50v
+T 50500 44600 5 10 0 0 0 0 1
+footprint=0603_sr.fp
 }
 C 48400 44600 1 270 0 resistor-iec-1.sym
 {
@@ -1128,6 +1132,8 @@ T 65300 51300 5 10 1 1 0 0 1
 refdes=R51
 T 65300 51100 5 10 1 1 0 0 1
 value=sr-r-680-1206
+T 64900 51700 5 10 0 0 0 0 1
+footprint=1206_sr.fp
 }
 N 65000 52000 63500 52000 4
 {
@@ -1351,10 +1357,10 @@ T 50700 36600 5 10 0 0 270 0 1
 device=LED
 T 49600 36300 5 10 1 1 0 0 1
 refdes=DS3
-T 50300 36600 5 10 0 0 270 0 1
-footprint=dual_led
 T 49600 36100 5 10 1 1 0 0 1
 value=sr-nothing
+T 48800 36700 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 C 51800 36700 1 270 0 led-dual-1.sym
 {
@@ -1362,10 +1368,10 @@ T 53700 36600 5 10 0 0 270 0 1
 device=LED
 T 52600 36300 5 10 1 1 0 0 1
 refdes=DS4
-T 53300 36600 5 10 0 0 270 0 1
-footprint=dual_led
 T 52600 36100 5 10 1 1 0 0 1
 value=sr-nothing
+T 51800 36700 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 C 54800 36700 1 270 0 led-dual-1.sym
 {
@@ -1373,10 +1379,10 @@ T 56700 36600 5 10 0 0 270 0 1
 device=LED
 T 55600 36300 5 10 1 1 0 0 1
 refdes=DS5
-T 56300 36600 5 10 0 0 270 0 1
-footprint=dual_led
 T 55600 36100 5 10 1 1 0 0 1
 value=sr-nothing
+T 54800 36700 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 C 57800 36700 1 270 0 led-dual-1.sym
 {
@@ -1384,10 +1390,10 @@ T 59700 36600 5 10 0 0 270 0 1
 device=LED
 T 58600 36300 5 10 1 1 0 0 1
 refdes=DS6
-T 59300 36600 5 10 0 0 270 0 1
-footprint=dual_led
 T 58600 36100 5 10 1 1 0 0 1
 value=sr-nothing
+T 57800 36700 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 C 60800 36700 1 270 0 led-dual-1.sym
 {
@@ -1395,10 +1401,10 @@ T 62700 36600 5 10 0 0 270 0 1
 device=LED
 T 61600 36300 5 10 1 1 0 0 1
 refdes=DS7
-T 62300 36600 5 10 0 0 270 0 1
-footprint=dual_led
 T 61600 36100 5 10 1 1 0 0 1
 value=sr-nothing
+T 60800 36700 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 C 63800 36700 1 270 0 led-dual-1.sym
 {
@@ -1406,10 +1412,10 @@ T 65700 36600 5 10 0 0 270 0 1
 device=LED
 T 64600 36300 5 10 1 1 0 0 1
 refdes=DS8
-T 65300 36600 5 10 0 0 270 0 1
-footprint=dual_led
 T 64600 36100 5 10 1 1 0 0 1
 value=sr-nothing
+T 63800 36700 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 C 70800 38700 1 0 0 3V3-plus-1.sym
 C 73800 38700 1 0 0 3V3-plus-1.sym
@@ -1454,10 +1460,10 @@ T 72700 38600 5 10 0 0 270 0 1
 device=LED
 T 71600 38300 5 10 1 1 0 0 1
 refdes=DS1
-T 72300 38600 5 10 0 0 270 0 1
-footprint=dual_led
 T 71600 38100 5 10 1 1 0 0 1
 value=sr-nothing
+T 70800 38700 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 C 73800 38700 1 270 0 led-dual-1.sym
 {
@@ -1465,12 +1471,12 @@ T 75700 38600 5 10 0 0 270 0 1
 device=LED
 T 74600 38300 5 10 1 1 0 0 1
 refdes=DS9
-T 75300 38600 5 10 0 0 270 0 1
-footprint=dual_led
 T 74600 38100 5 10 1 1 0 0 1
 value=sr-led-redgreen-0805
 T 74900 38600 5 10 0 0 270 0 1
 slot=2
+T 73800 38700 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 C 76800 38700 1 270 0 led-dual-1.sym
 {
@@ -1478,10 +1484,10 @@ T 78700 38600 5 10 0 0 270 0 1
 device=LED
 T 77600 38300 5 10 1 1 0 0 1
 refdes=DS9
-T 78300 38600 5 10 0 0 270 0 1
-footprint=dual_led
 T 77600 38100 5 10 1 1 0 0 1
 value=sr-led-redgreen-0805
+T 76800 38700 5 10 0 0 0 0 1
+footprint=0805_split_led_sr.fp
 }
 T 66000 35100 9 10 1 0 0 0 4
 The LEDs marked 'sr-nothing' have their value set on the
