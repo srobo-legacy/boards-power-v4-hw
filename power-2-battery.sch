@@ -308,6 +308,8 @@ T 52600 50400 5 10 0 0 0 0 1
 device=TESTPOINT
 T 52200 49500 5 10 0 0 0 0 1
 value=sr-nothing
+T 52200 49500 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 52400 45000 1 180 0 test-point.sym
 {
@@ -317,6 +319,8 @@ T 52000 44100 5 10 0 0 180 0 1
 device=TESTPOINT
 T 52400 45000 5 10 0 0 0 0 1
 value=sr-nothing
+T 52400 45000 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 60900 49500 1 0 0 test-point.sym
 {
@@ -326,6 +330,8 @@ T 61300 50400 5 10 0 0 0 0 1
 device=TESTPOINT
 T 60900 49500 5 10 0 0 0 0 1
 value=sr-nothing
+T 60900 49500 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 60600 45100 1 270 0 test-point.sym
 {
@@ -335,6 +341,8 @@ T 61500 44700 5 10 0 0 270 0 1
 device=TESTPOINT
 T 60600 45100 5 10 0 0 0 0 1
 value=sr-nothing
+T 60600 45100 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 58300 42000 1 180 0 test-point.sym
 {
@@ -344,6 +352,8 @@ T 57900 41100 5 10 0 0 180 0 1
 device=TESTPOINT
 T 58300 42000 5 10 0 0 0 0 1
 value=sr-nothing
+T 58300 42000 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 59300 43300 1 180 0 test-point.sym
 {
@@ -353,6 +363,8 @@ T 58900 42400 5 10 0 0 180 0 1
 device=TESTPOINT
 T 59300 43300 5 10 0 0 0 0 1
 value=sr-nothing
+T 59300 43300 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 64600 45700 1 90 0 test-point.sym
 {
@@ -362,6 +374,8 @@ T 63700 46100 5 10 0 0 90 0 1
 device=TESTPOINT
 T 64600 45700 5 10 0 0 0 0 1
 value=sr-nothing
+T 64600 45700 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 67500 45900 1 270 0 test-point.sym
 {
@@ -371,6 +385,8 @@ T 68400 45500 5 10 0 0 270 0 1
 device=TESTPOINT
 T 67500 45900 5 10 0 0 0 0 1
 value=sr-nothing
+T 67500 45900 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 72400 49500 1 0 0 test-point.sym
 {
@@ -380,6 +396,8 @@ T 72800 50400 5 10 0 0 0 0 1
 device=TESTPOINT
 T 72400 49500 5 10 0 0 0 0 1
 value=sr-nothing
+T 72400 49500 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 74400 46000 1 270 0 capacitor-np-1.sym
 {

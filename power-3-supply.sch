@@ -664,6 +664,8 @@ T 64800 55400 5 10 0 0 0 0 1
 device=TESTPOINT
 T 64400 54500 5 10 0 0 0 0 1
 value=sr-nothing
+T 64400 54500 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 61800 47400 1 0 0 test-point.sym
 {
@@ -673,6 +675,8 @@ T 62200 48300 5 10 0 0 0 0 1
 device=TESTPOINT
 T 61800 47400 5 10 0 0 0 0 1
 value=sr-nothing
+T 61800 47400 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 68500 45500 1 0 0 test-point.sym
 {
@@ -682,6 +686,8 @@ T 68900 46400 5 10 0 0 0 0 1
 device=TESTPOINT
 T 68500 45500 5 10 0 0 0 0 1
 value=sr-nothing
+T 68500 45500 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 76000 49200 1 0 0 test-point.sym
 {
@@ -691,6 +697,8 @@ T 76400 50100 5 10 0 0 0 0 1
 device=TESTPOINT
 T 76000 49200 5 10 0 0 0 0 1
 value=sr-nothing
+T 76000 49200 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 57500 40000 1 0 0 test-point.sym
 {
@@ -700,6 +708,8 @@ T 57900 40900 5 10 0 0 0 0 1
 device=TESTPOINT
 T 57500 40000 5 10 0 0 0 0 1
 value=sr-nothing
+T 57500 40000 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 66600 43700 1 0 0 test-point.sym
 {
@@ -709,6 +719,8 @@ T 67000 44600 5 10 0 0 0 0 1
 device=TESTPOINT
 T 66600 43700 5 10 0 0 0 0 1
 value=sr-nothing
+T 66600 43700 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 75500 43700 1 0 0 test-point.sym
 {
@@ -718,6 +730,8 @@ T 75900 44600 5 10 0 0 0 0 1
 device=TESTPOINT
 T 75500 43700 5 10 0 0 0 0 1
 value=sr-nothing
+T 75500 43700 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 77200 40700 1 0 0 tvs-unidirectional-1.sym
 {
@@ -921,6 +935,8 @@ T 61600 46200 5 10 0 0 180 0 1
 device=TESTPOINT
 T 62000 47100 5 10 0 0 0 0 1
 value=sr-nothing
+T 62000 47100 5 10 0 0 0 0 1
+footprint=TP_sr.fp
 }
 C 54600 46700 1 270 0 capacitor-np-1.sym
 {
