@@ -16,10 +16,14 @@ C 55900 49400 1 0 0 fuse-1.sym
 {
 T 56100 49950 5 10 0 0 0 0 1
 device=FUSE
-T 56100 49700 5 10 1 1 0 0 1
+T 56000 49900 5 10 1 1 0 0 1
 refdes=F1
 T 56100 50150 5 10 0 0 0 0 1
 symversion=0.1
+T 56000 49700 5 10 1 1 0 0 1
+value=sr-nothing
+T 55800 49000 5 10 1 1 0 0 1
+comment=40A MIDI fuse
 }
 C 57100 43800 1 0 1 nmos-pqfn-1.sym
 {
@@ -41,17 +45,21 @@ value=sr-r-100k
 }
 C 53200 49500 1 0 0 bushing.sym
 {
-T 53200 50200 5 10 1 1 0 0 1
+T 53200 50400 5 10 1 1 0 0 1
 refdes=J1
 T 53600 50400 5 10 0 0 0 0 1
 device=BUSHING
+T 53200 50200 5 10 1 1 0 0 1
+value=sr-cn-7460305
 }
 C 59200 49500 1 0 0 bushing.sym
 {
-T 59200 50200 5 10 1 1 0 0 1
+T 59200 50400 5 10 1 1 0 0 1
 refdes=J2
 T 59600 50400 5 10 0 0 0 0 1
 device=BUSHING
+T 59200 50200 5 10 1 1 0 0 1
+value=sr-cn-7460305
 }
 C 53600 45000 1 180 0 bushing.sym
 {
@@ -59,6 +67,8 @@ T 53200 44300 5 10 1 1 0 2 1
 refdes=J3
 T 53200 44100 5 10 0 0 180 0 1
 device=BUSHING
+T 53200 44000 5 10 1 1 0 0 1
+value=sr-cn-7460305
 }
 C 49300 47800 1 270 0 battery-3cell-1.sym
 {
@@ -68,6 +78,8 @@ T 49800 47300 5 10 1 1 0 0 1
 refdes=B1
 T 50250 47500 5 10 0 0 270 0 1
 symversion=0.1
+T 49800 47100 5 10 1 1 0 0 1
+value=sr-nothing
 }
 C 54600 47800 1 270 0 tvs-bidirectonal-1.sym
 {
