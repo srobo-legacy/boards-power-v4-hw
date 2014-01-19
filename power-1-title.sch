@@ -148,8 +148,13 @@ T 52500 59200 9 18 1 0 0 3 1
 Iq = 0.4µA
 T 47200 58800 9 18 1 0 0 3 1
 Iq = 0.4µA
-T 41500 55900 9 14 1 0 0 0 4
+T 41500 57500 9 14 1 0 0 2 9
 The UVLO activates when the cell voltage reaches ~3.2V (9.6V total),
 leaving around 20mAh of charge in the battery (2200mAh battery).
-The quiescent current at 9.6V will be ~21µA, giving a run time of approximately
-40 days until the battery is potentially damaged.
+
+If the board has been left switched on the quiescent current at 9.6V will
+be ~21µA, giving a run time of approximately 40 days until the battery is
+potentially damaged.
+
+If the board has been switched off with the battery at 50% the quiescent
+current will be ~13µA, giving a run time of approximately 9.5 years.
