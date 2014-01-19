@@ -41,7 +41,7 @@ device=RESISTOR
 T 62300 45900 5 10 1 1 0 0 1
 refdes=R5
 T 62300 45700 5 10 1 1 0 0 1
-value=sr-r-100k
+value=sr-r-10k-0402
 }
 C 53200 49500 1 0 0 bushing.sym
 {
