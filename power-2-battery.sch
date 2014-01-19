@@ -94,6 +94,8 @@ T 55900 47800 5 10 0 0 270 0 1
 device=TVS_DIODE
 T 55300 47200 5 10 1 1 0 0 1
 value=sr-d-smaj15ca
+T 54600 47800 5 10 0 0 0 0 1
+footprint=DO214AC_sr.fp
 }
 C 51700 47800 1 270 0 capacitor-np-1.sym
 {
