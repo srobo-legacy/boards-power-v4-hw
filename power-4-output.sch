@@ -17,7 +17,7 @@ C 65800 52200 1 0 0 VND5012AK-1.sym
 T 66100 57200 5 10 0 0 0 0 1
 device=VND5012AK
 T 66100 56800 5 10 1 1 0 0 1
-refdes=U6
+refdes=U5
 T 66100 56600 5 10 1 1 0 0 1
 value=sr-ic-vnd5012
 }
@@ -26,7 +26,7 @@ C 65800 47000 1 0 0 VND5012AK-1.sym
 T 66100 52000 5 10 0 0 0 0 1
 device=VND5012AK
 T 66100 51600 5 10 1 1 0 0 1
-refdes=U7
+refdes=U6
 T 66100 51400 5 10 1 1 0 0 1
 value=sr-ic-vnd5012
 }
@@ -35,7 +35,7 @@ C 65800 41800 1 0 0 VND5012AK-1.sym
 T 66100 46800 5 10 0 0 0 0 1
 device=VND5012AK
 T 66100 46400 5 10 1 1 0 0 1
-refdes=U8
+refdes=U7
 T 66100 46200 5 10 1 1 0 0 1
 value=sr-ic-vnd5012
 }
@@ -44,7 +44,7 @@ C 65800 36600 1 0 0 VND5012AK-1.sym
 T 66100 41600 5 10 0 0 0 0 1
 device=VND5012AK
 T 66100 41200 5 10 1 1 0 0 1
-refdes=U9
+refdes=U8
 T 66100 41000 5 10 1 1 0 0 1
 value=sr-ic-vnd5012
 }
@@ -131,7 +131,7 @@ C 63000 56500 1 270 0 capacitor-np-1.sym
 T 63700 56300 5 10 0 0 270 0 1
 device=CAPACITOR
 T 63600 56100 5 10 1 1 0 0 1
-refdes=C29
+refdes=C27
 T 63900 56300 5 10 0 0 270 0 1
 symversion=0.1
 T 63600 55900 5 10 1 1 0 0 1
@@ -142,7 +142,7 @@ C 60300 56500 1 270 0 capacitor-np-1.sym
 T 61000 56300 5 10 0 0 270 0 1
 device=CAPACITOR
 T 60900 56100 5 10 1 1 0 0 1
-refdes=C28
+refdes=C26
 T 61200 56300 5 10 0 0 270 0 1
 symversion=0.1
 T 60900 55900 5 10 1 1 0 0 1
@@ -166,7 +166,7 @@ device=CAPACITOR
 T 63900 51100 5 10 0 0 270 0 1
 symversion=0.1
 T 63600 50900 5 10 1 1 0 0 1
-refdes=C34
+refdes=C32
 T 63600 50700 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -177,7 +177,7 @@ device=CAPACITOR
 T 61200 51100 5 10 0 0 270 0 1
 symversion=0.1
 T 60900 50900 5 10 1 1 0 0 1
-refdes=C32
+refdes=C30
 T 60900 50700 5 10 1 1 0 0 1
 value=sr-c-10u-1206-16v
 }
@@ -199,7 +199,7 @@ device=CAPACITOR
 T 63900 46200 5 10 0 0 270 0 1
 symversion=0.1
 T 63600 46000 5 10 1 1 0 0 1
-refdes=C39
+refdes=C37
 T 63600 45800 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -210,7 +210,7 @@ device=CAPACITOR
 T 61200 46200 5 10 0 0 270 0 1
 symversion=0.1
 T 60900 46000 5 10 1 1 0 0 1
-refdes=C38
+refdes=C36
 T 60900 45800 5 10 1 1 0 0 1
 value=sr-c-10u-1206-16v
 }
@@ -232,7 +232,7 @@ device=CAPACITOR
 T 63900 41000 5 10 0 0 270 0 1
 symversion=0.1
 T 63600 40800 5 10 1 1 0 0 1
-refdes=C45
+refdes=C43
 T 63600 40600 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -243,7 +243,7 @@ device=CAPACITOR
 T 61200 41000 5 10 0 0 270 0 1
 symversion=0.1
 T 60900 40800 5 10 1 1 0 0 1
-refdes=C44
+refdes=C42
 T 60900 40600 5 10 1 1 0 0 1
 value=sr-c-10u-1206-16v
 }
@@ -336,7 +336,7 @@ C 74500 54800 1 270 0 capacitor-np-1.sym
 T 75200 54600 5 10 0 0 270 0 1
 device=CAPACITOR
 T 75100 54400 5 10 1 1 0 0 1
-refdes=C30
+refdes=C28
 T 75400 54600 5 10 0 0 270 0 1
 symversion=0.1
 T 75100 54200 5 10 1 1 0 0 1
@@ -379,7 +379,7 @@ device=CAPACITOR
 T 75400 49400 5 10 0 0 270 0 1
 symversion=0.1
 T 75100 49200 5 10 1 1 0 0 1
-refdes=C35
+refdes=C33
 T 75100 49000 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -420,7 +420,7 @@ device=CAPACITOR
 T 75400 45700 5 10 0 0 270 0 1
 symversion=0.1
 T 75100 45500 5 10 1 1 0 0 1
-refdes=C40
+refdes=C38
 T 75100 45300 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -462,7 +462,7 @@ device=CAPACITOR
 T 75400 43100 5 10 0 0 270 0 1
 symversion=0.1
 T 75100 42900 5 10 1 1 0 0 1
-refdes=C43
+refdes=C41
 T 75100 42700 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -501,7 +501,7 @@ device=CAPACITOR
 T 75400 40500 5 10 0 0 270 0 1
 symversion=0.1
 T 75100 40300 5 10 1 1 0 0 1
-refdes=C46
+refdes=C44
 T 75100 40100 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -543,7 +543,7 @@ device=CAPACITOR
 T 75400 37900 5 10 0 0 270 0 1
 symversion=0.1
 T 75100 37700 5 10 1 1 0 0 1
-refdes=C49
+refdes=C47
 T 75100 37500 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -560,7 +560,7 @@ C 62700 53500 1 0 0 resistor-iec-1.sym
 T 63100 53850 5 10 0 0 0 0 1
 device=RESISTOR
 T 62600 54000 5 10 1 1 0 0 1
-refdes=R24
+refdes=R25
 T 62600 53800 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
@@ -633,7 +633,7 @@ C 47900 37800 1 270 0 resistor-iec-1.sym
 T 48250 37400 5 10 0 0 270 0 1
 device=RESISTOR
 T 48300 37400 5 10 1 1 0 0 1
-refdes=R43
+refdes=R44
 T 48300 37200 5 10 1 1 0 0 1
 value=sr-r-560-0402
 }
@@ -651,7 +651,7 @@ C 50000 36800 1 270 0 capacitor-np-1.sym
 T 50700 36600 5 10 0 0 270 0 1
 device=CAPACITOR
 T 50600 36400 5 10 1 1 0 0 1
-refdes=C47
+refdes=C45
 T 50900 36600 5 10 0 0 270 0 1
 symversion=0.1
 T 50600 36200 5 10 1 1 0 0 1
@@ -712,7 +712,7 @@ C 50800 50700 1 270 0 capacitor-np-1.sym
 T 51500 50500 5 10 0 0 270 0 1
 device=CAPACITOR
 T 51400 50300 5 10 1 1 0 0 1
-refdes=C31
+refdes=C29
 T 51700 50500 5 10 0 0 270 0 1
 symversion=0.1
 T 51400 50100 5 10 1 1 0 0 1
@@ -736,7 +736,7 @@ C 55100 38600 1 270 0 resistor-iec-1.sym
 T 55450 38200 5 10 0 0 270 0 1
 device=RESISTOR
 T 55500 38200 5 10 1 1 0 0 1
-refdes=R44
+refdes=R43
 T 55500 38000 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
@@ -747,7 +747,7 @@ device=CAPACITOR
 T 55900 36600 5 10 0 0 270 0 1
 symversion=0.1
 T 55600 36400 5 10 1 1 0 0 1
-refdes=C48
+refdes=C46
 T 55600 36200 5 10 1 1 0 0 1
 value=sr-c-10n-0402-25v
 }
@@ -788,7 +788,7 @@ C 53400 52600 1 270 0 resistor-iec-1.sym
 T 53750 52200 5 10 0 0 270 0 1
 device=RESISTOR
 T 53800 52200 5 10 1 1 0 0 1
-refdes=R25
+refdes=R23
 T 53800 52000 5 10 1 1 0 0 1
 value=sr-r-10k-0402
 }
@@ -808,7 +808,7 @@ device=CAPACITOR
 T 56200 50500 5 10 0 0 270 0 1
 symversion=0.1
 T 55900 50300 5 10 1 1 0 0 1
-refdes=C33
+refdes=C31
 T 55900 50100 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -853,7 +853,7 @@ device=CAPACITOR
 T 51700 46000 5 10 0 0 270 0 1
 symversion=0.1
 T 51400 45800 5 10 1 1 0 0 1
-refdes=C36
+refdes=C34
 T 51400 45600 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -898,7 +898,7 @@ device=CAPACITOR
 T 56200 46000 5 10 0 0 270 0 1
 symversion=0.1
 T 55900 45800 5 10 1 1 0 0 1
-refdes=C37
+refdes=C35
 T 55900 45600 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -943,7 +943,7 @@ device=CAPACITOR
 T 51700 41500 5 10 0 0 270 0 1
 symversion=0.1
 T 51400 41300 5 10 1 1 0 0 1
-refdes=C41
+refdes=C39
 T 51400 41100 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -988,7 +988,7 @@ device=CAPACITOR
 T 56200 41500 5 10 0 0 270 0 1
 symversion=0.1
 T 55900 41300 5 10 1 1 0 0 1
-refdes=C42
+refdes=C40
 T 55900 41100 5 10 1 1 0 0 1
 value=sr-c-100n-0402-16v
 }
@@ -1019,7 +1019,7 @@ C 59500 53200 1 270 0 resistor-iec-1.sym
 T 59850 52800 5 10 0 0 270 0 1
 device=RESISTOR
 T 59900 52800 5 10 1 1 0 0 1
-refdes=R23
+refdes=R24
 T 59900 52600 5 10 1 1 0 0 1
 value=sr-r-4k7-0402
 }
@@ -1294,7 +1294,7 @@ value=sr-nothing
 C 77000 41300 1 270 0 test-point.sym
 {
 T 77500 41200 5 10 1 1 0 1 1
-refdes=TP41
+refdes=TP43
 T 77900 40900 5 10 0 0 270 0 1
 device=TESTPOINT
 T 77000 41300 5 10 0 0 0 0 1
@@ -1357,7 +1357,7 @@ value=sr-nothing
 C 52900 39000 1 0 0 test-point.sym
 {
 T 53000 39500 5 10 1 1 0 3 1
-refdes=TP44
+refdes=TP42
 T 53300 39900 5 10 0 0 0 0 1
 device=TESTPOINT
 T 52900 39000 5 10 0 0 0 0 1
@@ -1366,7 +1366,7 @@ value=sr-nothing
 C 56100 37400 1 270 0 test-point.sym
 {
 T 56600 37300 5 10 1 1 0 1 1
-refdes=TP45
+refdes=TP46
 T 57000 37000 5 10 0 0 270 0 1
 device=TESTPOINT
 T 56100 37400 5 10 0 0 0 0 1
@@ -1375,7 +1375,7 @@ value=sr-nothing
 C 47900 39000 1 0 0 test-point.sym
 {
 T 48000 39500 5 10 1 1 0 3 1
-refdes=TP42
+refdes=TP41
 T 48300 39900 5 10 0 0 0 0 1
 device=TESTPOINT
 T 47900 39000 5 10 0 0 0 0 1
@@ -1384,7 +1384,7 @@ value=sr-nothing
 C 51100 37300 1 270 0 test-point.sym
 {
 T 51600 37200 5 10 1 1 0 1 1
-refdes=TP43
+refdes=TP44
 T 52000 36900 5 10 0 0 270 0 1
 device=TESTPOINT
 T 51100 37300 5 10 0 0 0 0 1
@@ -1492,7 +1492,7 @@ value=sr-nothing
 C 60500 38000 1 0 0 test-point.sym
 {
 T 60600 38500 5 10 1 1 0 3 1
-refdes=TP46
+refdes=TP45
 T 60900 38900 5 10 0 0 0 0 1
 device=TESTPOINT
 T 60500 38000 5 10 0 0 0 0 1
@@ -1503,7 +1503,7 @@ C 71900 53800 1 0 0 tvs-unidirectional-1.sym
 T 72000 55800 5 10 0 0 0 0 1
 device=TVS_DIODE
 T 72600 54300 5 10 1 1 0 0 1
-refdes=D8
+refdes=D7
 T 72600 54100 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
 }
@@ -1514,7 +1514,7 @@ C 71900 48600 1 0 0 tvs-unidirectional-1.sym
 T 72000 50600 5 10 0 0 0 0 1
 device=TVS_DIODE
 T 72600 49100 5 10 1 1 0 0 1
-refdes=D9
+refdes=D8
 T 72600 48900 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
 }
@@ -1525,7 +1525,7 @@ C 71900 45000 1 0 0 tvs-unidirectional-1.sym
 T 72000 47000 5 10 0 0 0 0 1
 device=TVS_DIODE
 T 72600 45500 5 10 1 1 0 0 1
-refdes=D10
+refdes=D9
 T 72600 45300 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
 }
@@ -1536,7 +1536,7 @@ C 71900 42400 1 0 0 tvs-unidirectional-1.sym
 T 72000 44400 5 10 0 0 0 0 1
 device=TVS_DIODE
 T 72600 42900 5 10 1 1 0 0 1
-refdes=D11
+refdes=D10
 T 72600 42700 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
 }
@@ -1547,7 +1547,7 @@ C 71900 39800 1 0 0 tvs-unidirectional-1.sym
 T 72000 41800 5 10 0 0 0 0 1
 device=TVS_DIODE
 T 72600 40300 5 10 1 1 0 0 1
-refdes=D12
+refdes=D11
 T 72600 40100 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
 }
@@ -1558,7 +1558,7 @@ C 71900 37200 1 0 0 tvs-unidirectional-1.sym
 T 72000 39200 5 10 0 0 0 0 1
 device=TVS_DIODE
 T 72600 37700 5 10 1 1 0 0 1
-refdes=D13
+refdes=D12
 T 72600 37500 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
 }
@@ -1609,7 +1609,7 @@ C 62700 44000 1 0 0 resistor-iec-array-4-1.sym
 T 62700 45750 5 10 0 0 0 0 1
 device=RESISTOR
 T 62600 44500 5 10 1 1 0 0 1
-refdes=RN2
+refdes=RN3
 T 62600 44300 5 10 1 1 0 0 1
 value=sr-ra-4-10k-0402
 }
@@ -1618,7 +1618,7 @@ C 62700 43100 1 0 0 resistor-iec-array-4-1.sym
 T 62700 44850 5 10 0 0 0 0 1
 device=RESISTOR
 T 62600 43600 5 10 1 1 0 0 1
-refdes=RN2
+refdes=RN3
 T 62700 44450 5 10 0 0 0 0 1
 slot=2
 T 62600 43400 5 10 1 1 0 0 1
@@ -1629,7 +1629,7 @@ C 62700 38800 1 0 0 resistor-iec-array-4-1.sym
 T 62700 40550 5 10 0 0 0 0 1
 device=RESISTOR
 T 62600 39300 5 10 1 1 0 0 1
-refdes=RN2
+refdes=RN3
 T 62700 40150 5 10 0 0 0 0 1
 slot=3
 T 62600 39100 5 10 1 1 0 0 1
@@ -1640,7 +1640,7 @@ C 62700 37900 1 0 0 resistor-iec-array-4-1.sym
 T 62700 39650 5 10 0 0 0 0 1
 device=RESISTOR
 T 62600 38400 5 10 1 1 0 0 1
-refdes=RN2
+refdes=RN3
 T 62700 39250 5 10 0 0 0 0 1
 slot=4
 T 62600 38200 5 10 1 1 0 0 1
@@ -1651,7 +1651,7 @@ C 57500 45100 1 270 0 resistor-iec-array-4-1.sym
 T 59250 45100 5 10 0 0 270 0 1
 device=RESISTOR
 T 57900 44700 5 10 1 1 0 0 1
-refdes=RN3
+refdes=RN2
 T 57900 44500 5 10 1 1 0 0 1
 value=sr-ra-4-4k7-0402
 }
@@ -1660,7 +1660,7 @@ C 59500 42800 1 270 0 resistor-iec-array-4-1.sym
 T 61250 42800 5 10 0 0 270 0 1
 device=RESISTOR
 T 59900 42400 5 10 1 1 0 0 1
-refdes=RN3
+refdes=RN2
 T 60850 42800 5 10 0 0 270 0 1
 slot=2
 T 59900 42200 5 10 1 1 0 0 1
@@ -1671,7 +1671,7 @@ C 57500 39900 1 270 0 resistor-iec-array-4-1.sym
 T 59250 39900 5 10 0 0 270 0 1
 device=RESISTOR
 T 57900 39500 5 10 1 1 0 0 1
-refdes=RN3
+refdes=RN2
 T 58850 39900 5 10 0 0 270 0 1
 slot=3
 T 57900 39300 5 10 1 1 0 0 1
@@ -1682,7 +1682,7 @@ C 59500 37600 1 270 0 resistor-iec-array-4-1.sym
 T 61250 37600 5 10 0 0 270 0 1
 device=RESISTOR
 T 59900 37200 5 10 1 1 0 0 1
-refdes=RN3
+refdes=RN2
 T 60850 37600 5 10 0 0 270 0 1
 slot=4
 T 59900 37000 5 10 1 1 0 0 1
