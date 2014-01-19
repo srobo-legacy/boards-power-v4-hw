@@ -427,6 +427,8 @@ T 59100 55600 5 10 1 1 0 0 1
 value=sr-cn-camcon2w-5mm
 T 60000 56500 5 20 1 1 0 3 1
 comment=External power switch
+T 60300 55500 5 10 0 0 0 0 1
+footprint=camcon_50_2_sr.fp
 }
 N 59800 54700 59800 54500 4
 N 59800 54500 57100 54500 4

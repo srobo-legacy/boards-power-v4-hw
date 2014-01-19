@@ -33,6 +33,8 @@ T 56200 44400 5 10 1 1 180 2 1
 refdes=Q1
 T 56200 44200 5 10 1 1 0 6 1
 value=sr-fet-n-irfh5301
+T 57100 43800 5 10 0 0 0 0 1
+footprint=PQFN56B_sr.fp
 }
 C 62100 45400 1 90 0 resistor-iec-1.sym
 {
@@ -118,6 +120,8 @@ T 59400 44400 5 10 1 1 180 2 1
 refdes=Q2
 T 59400 44200 5 10 1 1 0 6 1
 value=sr-fet-n-irfh5301
+T 60300 43800 5 10 0 0 0 0 1
+footprint=PQFN56B_sr.fp
 }
 N 49500 47800 49500 49500 4
 N 49500 49500 55900 49500 4

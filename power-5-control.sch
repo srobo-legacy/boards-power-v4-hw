@@ -143,6 +143,8 @@ T 69900 43300 5 10 1 1 0 0 1
 refdes=J17
 T 69900 43100 5 10 1 1 0 0 1
 value=sr-cn-header2x5-1.27mm
+T 69600 43200 5 10 0 0 0 0 1
+footprint=header_127_10w_sr.fp
 }
 N 69600 44500 67600 44500 4
 N 69600 44300 67600 44300 4
@@ -189,6 +191,8 @@ T 73800 42700 5 10 0 0 0 0 1
 symversion=0.1
 T 72900 42300 5 10 1 1 0 0 1
 value=sr-xtal-abmm2-8.000mhz-e2-t
+T 73600 41600 5 10 0 0 0 0 1
+footprint=ABMM2_sr.fp
 }
 C 70300 41900 1 0 0 resistor-iec-1.sym
 {
@@ -435,6 +439,8 @@ T 50000 47000 5 10 1 1 0 0 1
 refdes=J16
 T 50000 46800 5 10 1 1 0 0 1
 value=sr-cn-usb-micro-b
+T 50000 44800 5 10 0 0 0 0 1
+footprint=FCI_10103592_sr.fp
 }
 C 50500 44600 1 270 0 capacitor-np-1.sym
 {

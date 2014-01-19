@@ -337,6 +337,8 @@ T 77800 54800 5 10 1 1 0 0 1
 value=sr-cn-camcon2w
 T 77500 53500 5 20 1 1 0 0 1
 comment=High Power 0
+T 78300 54000 5 10 0 0 0 0 1
+footprint=camcon_75_2_sr.fp
 }
 C 73400 52200 1 0 0 gnd-1.sym
 N 69600 52500 77000 52500 4
@@ -384,6 +386,8 @@ T 77800 49600 5 10 1 1 0 0 1
 value=sr-cn-camcon2w
 T 77500 48000 5 20 1 1 0 0 1
 comment=High Power 1
+T 78300 48800 5 10 0 0 0 0 1
+footprint=camcon_75_2_sr.fp
 }
 C 73400 47000 1 0 0 gnd-1.sym
 N 69600 47300 77000 47300 4
@@ -431,6 +435,8 @@ T 77800 45900 5 10 1 1 0 0 1
 value=sr-cn-camcon2w
 T 77500 44700 5 20 1 1 0 0 1
 comment=Low Power 0
+T 78300 45100 5 10 0 0 0 0 1
+footprint=camcon_75_2_sr.fp
 }
 C 73400 44200 1 0 0 gnd-1.sym
 N 69600 44500 77000 44500 4
@@ -479,6 +485,8 @@ T 77800 43300 5 10 1 1 0 0 1
 value=sr-cn-camcon2w
 T 77500 42100 5 20 1 1 0 0 1
 comment=Low Power 1
+T 78300 42500 5 10 0 0 0 0 1
+footprint=camcon_75_2_sr.fp
 }
 C 73400 41600 1 0 0 gnd-1.sym
 N 69600 41900 77000 41900 4
@@ -524,6 +532,8 @@ T 77800 40700 5 10 1 1 0 0 1
 value=sr-cn-camcon2w
 T 77500 39500 5 20 1 1 0 0 1
 comment=Low Power 2
+T 78300 39900 5 10 0 0 0 0 1
+footprint=camcon_75_2_sr.fp
 }
 C 73400 39000 1 0 0 gnd-1.sym
 N 69600 39300 77000 39300 4
@@ -572,6 +582,8 @@ T 77800 38100 5 10 1 1 0 0 1
 value=sr-cn-camcon2w
 T 77500 36900 5 20 1 1 0 0 1
 comment=Low Power 3
+T 78300 37300 5 10 0 0 0 0 1
+footprint=camcon_75_2_sr.fp
 }
 C 73400 36400 1 0 0 gnd-1.sym
 N 69600 36700 77000 36700 4
