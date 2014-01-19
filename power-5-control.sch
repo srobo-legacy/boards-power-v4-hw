@@ -755,10 +755,6 @@ netname=ERROR
 }
 N 77000 36500 77000 36900 4
 N 56500 44700 61700 44700 4
-{
-T 61500 44700 5 10 1 1 0 6 1
-netname=FLAT
-}
 N 60600 43900 61700 43900 4
 {
 T 61500 43900 5 10 1 1 0 6 1
@@ -1404,3 +1400,8 @@ The LEDs marked 'sr-nothing' have their value set on the
 power-3-supply.sch and power-4-output.sch pages.
 This is due to the inability of the BOM generation script
 to detect slotted symbols across schematics files.
+N 67600 42500 68600 42500 4
+{
+T 67800 42500 5 10 1 1 0 0 1
+netname=FLAT
+}
