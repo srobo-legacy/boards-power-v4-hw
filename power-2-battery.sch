@@ -80,6 +80,9 @@ T 50250 47500 5 10 0 0 270 0 1
 symversion=0.1
 T 49800 47100 5 10 1 1 0 0 1
 value=sr-nothing
+T 48700 48800 5 20 1 1 90 6 2
+comment=Turnigy 2200mAh
+20C Lipo
 }
 C 54600 47800 1 270 0 tvs-bidirectonal-1.sym
 {
@@ -408,3 +411,6 @@ value=sr-c-10u-1206-16v
 N 73400 48800 73400 49500 4
 C 73300 47100 1 0 0 gnd-1.sym
 N 73400 47400 73400 47900 4
+T 47600 44000 9 10 1 0 0 0 2
+The battery connects via a captive cable bolted
+to J1 and J3 with ring terminals

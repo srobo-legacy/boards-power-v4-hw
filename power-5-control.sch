@@ -507,6 +507,8 @@ T 77600 52000 5 10 0 0 270 0 1
 device=SWITCH_PUSHBUTTON_NO
 T 77500 51700 5 10 1 1 0 0 1
 value=sr-sw-button-ra-4.24mm
+T 76000 53000 5 20 1 1 0 0 1
+comment=Internal Start Button
 }
 C 78800 48600 1 0 1 connector2-1.sym
 {
@@ -516,6 +518,8 @@ T 77800 49600 5 10 1 1 0 0 1
 refdes=J15
 T 77800 49400 5 10 1 1 0 0 1
 value=sr-cn-minicamcon2w
+T 76000 47000 5 20 1 1 0 0 1
+comment=External Start Button
 }
 N 71500 45500 71500 52500 4
 N 71500 45500 67600 45500 4
@@ -773,6 +777,8 @@ T 48200 53800 5 10 1 1 0 0 1
 refdes=J14
 T 48200 53600 5 10 1 1 0 0 1
 value=sr-cn-header6
+T 48000 52600 5 20 1 1 90 3 1
+comment=FTDI pinout UART
 }
 C 50000 53700 1 0 0 gnd-1.sym
 N 50100 54000 49800 54000 4
@@ -985,9 +991,11 @@ N 49500 48700 49500 49100 4
 N 49500 49100 52000 49100 4
 N 77000 51200 77000 51400 4
 N 77000 52500 77000 52400 4
-T 73000 46900 9 10 1 0 0 0 2
-Internal pull-up and cap forms a low-pass filter,
-gives debouncing with the schmitt trigger input
+T 73000 46900 9 10 1 0 0 0 4
+Internal pull-up and cap
+forms a low-pass filter,
+gives debouncing with the
+schmitt trigger input
 C 52700 54000 1 0 1 nmos-sot323-gsd-1.sym
 {
 T 52475 55350 5 10 0 0 0 6 1
@@ -1405,3 +1413,5 @@ N 67600 42500 68600 42500 4
 T 67800 42500 5 10 1 1 0 0 1
 netname=FLAT
 }
+T 56500 35200 9 20 1 0 0 5 1
+Output Status LEDs
