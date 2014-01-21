@@ -321,6 +321,8 @@ T 78100 44000 5 10 1 1 0 0 1
 value=sr-cn-minicamcon2w
 T 79500 42000 5 20 1 1 0 6 1
 comment=5V Out
+T 78600 43200 5 10 0 0 0 0 1
+footprint=camcon_38_2_sr.fp
 }
 C 78600 38400 1 0 1 connector2-1.sym
 {
@@ -330,6 +332,8 @@ T 78100 39400 5 10 1 1 0 0 1
 refdes=J7
 T 78100 39200 5 10 1 1 0 0 1
 value=sr-cn-minicamcon2w
+T 78600 38400 5 10 0 0 0 0 1
+footprint=camcon_38_2_sr.fp
 }
 C 77700 43100 1 0 0 gnd-1.sym
 C 77700 38300 1 0 0 gnd-1.sym
@@ -525,6 +529,8 @@ T 71700 39500 5 10 1 1 0 0 1
 refdes=U4
 T 71700 39300 5 10 1 1 0 0 1
 value=sr-ic-ina219
+T 71400 37600 5 10 0 0 0 0 1
+footprint=SOT28_sr.fp
 }
 C 69400 41400 1 270 0 resistor-iec-1.sym
 {
@@ -802,6 +808,8 @@ T 52900 49800 5 10 0 0 270 0 1
 symversion=1
 T 52100 49200 5 10 1 1 0 0 1
 value=sr-fuse-r1850-2920
+T 51500 49800 5 10 0 0 0 0 1
+footprint=2920_sr.fp
 }
 N 51700 49800 51700 54500 4
 C 55900 51800 1 0 1 connector2-1.sym

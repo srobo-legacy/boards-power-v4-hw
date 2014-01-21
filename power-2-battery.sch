@@ -24,6 +24,8 @@ T 56000 49700 5 10 1 1 0 0 1
 value=sr-nothing
 T 55800 49000 5 10 1 1 0 0 1
 comment=40A MIDI fuse
+T 55900 49400 5 10 0 0 0 0 1
+footprint=none
 }
 C 57100 43800 1 0 1 nmos-pqfn-1.sym
 {
@@ -55,6 +57,8 @@ T 53600 50400 5 10 0 0 0 0 1
 device=BUSHING
 T 53200 50200 5 10 1 1 0 0 1
 value=sr-cn-7460305
+T 53200 49500 5 10 0 0 0 0 1
+footprint=WURTH_7460305_sr.fp
 }
 C 59200 49500 1 0 0 bushing.sym
 {
@@ -64,6 +68,8 @@ T 59600 50400 5 10 0 0 0 0 1
 device=BUSHING
 T 59200 50200 5 10 1 1 0 0 1
 value=sr-cn-7460305
+T 59200 49500 5 10 0 0 0 0 1
+footprint=WURTH_7460305_sr.fp
 }
 C 53600 45000 1 180 0 bushing.sym
 {
@@ -73,6 +79,8 @@ T 53200 44100 5 10 0 0 180 0 1
 device=BUSHING
 T 53200 44000 5 10 1 1 0 0 1
 value=sr-cn-7460305
+T 53600 45000 5 10 0 0 0 0 1
+footprint=WURTH_7460305_sr.fp
 }
 C 49300 47800 1 270 0 battery-3cell-1.sym
 {
@@ -87,6 +95,8 @@ value=sr-nothing
 T 48700 48800 5 20 1 1 90 6 2
 comment=Turnigy 2200mAh
 20C Lipo
+T 49300 47800 5 10 0 0 0 0 1
+footprint=none
 }
 C 54600 47800 1 270 0 tvs-bidirectonal-1.sym
 {
@@ -154,6 +164,8 @@ T 71000 48700 5 10 0 0 270 0 1
 symversion=0.1
 T 70900 48300 5 10 1 1 0 0 1
 value=sr-c-ucw1e471mnl1gs
+T 70300 48900 5 10 0 0 0 0 1
+footprint=NICHICON_CAP_10_10_sr.fp
 }
 N 70500 48900 70500 49500 4
 C 75800 49400 1 0 0 output-1.sym
@@ -173,6 +185,8 @@ T 65400 50400 5 10 1 1 0 0 1
 refdes=R1
 T 65400 50200 5 10 1 1 0 0 1
 value=sr-r-1m-2512-1w
+T 65600 49900 5 10 0 0 0 0 1
+footprint=2512_sr.fp
 }
 C 65600 48900 1 0 0 resistor-iec-1.sym
 {
@@ -182,6 +196,8 @@ T 65400 49400 5 10 1 1 0 0 1
 refdes=R2
 T 65400 49200 5 10 1 1 0 0 1
 value=sr-r-1m-2512-1w
+T 65600 48900 5 10 0 0 0 0 1
+footprint=2512_sr.fp
 }
 N 65600 49000 65100 49000 4
 N 65100 49000 65100 50000 4
@@ -282,6 +298,8 @@ T 68700 45200 5 10 1 1 0 0 1
 refdes=U1
 T 68700 45000 5 10 1 1 0 0 1
 value=sr-ic-ina219
+T 68400 43300 5 10 0 0 0 0 1
+footprint=SOT28_sr.fp
 }
 C 67900 43200 1 0 0 gnd-1.sym
 C 70400 47100 1 0 0 gnd-1.sym
@@ -434,6 +452,8 @@ T 62400 43100 5 10 1 1 0 0 1
 refdes=D2
 T 62400 42900 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
+T 61700 42600 5 10 0 0 0 0 1
+footprint=SOD523_sr.fp
 }
 C 73200 48800 1 270 0 capacitor-np-1.sym
 {

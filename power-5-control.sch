@@ -495,6 +495,8 @@ T 61900 56500 5 10 1 1 0 0 1
 refdes=U10
 T 61900 56300 5 10 1 1 0 0 1
 value=sr-ic-stm32f103r6
+T 61600 52900 5 10 0 0 0 0 1
+footprint=LQFP64_10_sr.fp
 }
 C 61700 41000 1 0 0 STM32F103Rx.sym
 {
@@ -504,6 +506,8 @@ T 62000 49000 5 10 1 1 0 0 1
 refdes=U10
 T 62000 48800 5 10 1 1 0 0 1
 value=sr-ic-stm32f103r6
+T 61700 41000 5 10 0 0 0 0 1
+footprint=LQFP64_10_sr.fp
 }
 N 63700 55800 64300 55800 4
 N 61600 55800 61000 55800 4
@@ -556,6 +560,8 @@ T 77800 49400 5 10 1 1 0 0 1
 value=sr-cn-minicamcon2w
 T 76000 47000 5 20 1 1 0 0 1
 comment=External Start Button
+T 78800 48600 5 10 0 0 0 0 1
+footprint=camcon_38_2_sr.fp
 }
 N 71500 45500 71500 52500 4
 N 71500 45500 67600 45500 4
@@ -841,6 +847,8 @@ T 48200 53600 5 10 1 1 0 0 1
 value=sr-cn-header6
 T 48000 52600 5 20 1 1 90 3 1
 comment=FTDI pinout UART
+T 48500 51600 5 10 0 0 0 0 1
+footprint=header_254_1_6w_sr.fp
 }
 C 50000 53700 1 0 0 gnd-1.sym
 N 50100 54000 49800 54000 4
@@ -1344,6 +1352,8 @@ T 75900 49000 5 10 1 1 0 0 1
 refdes=D17
 T 75900 48800 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
+T 75200 48500 5 10 0 0 0 0 1
+footprint=SOD523_sr.fp
 }
 N 75500 48100 75500 48500 4
 C 49200 47800 1 0 0 tvs-unidirectional-1.sym
@@ -1354,6 +1364,8 @@ T 49900 48300 5 10 1 1 0 0 1
 refdes=D16
 T 49900 48100 5 10 1 1 0 0 1
 value=sr-d-pesd5z12
+T 49200 47800 5 10 0 0 0 0 1
+footprint=SOD523_sr.fp
 }
 C 68900 45800 1 0 0 output-1.sym
 {
