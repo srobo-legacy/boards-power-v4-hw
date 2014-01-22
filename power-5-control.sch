@@ -1179,6 +1179,8 @@ T 56600 57050 5 10 0 0 0 0 1
 device=MCP970x
 T 56900 56600 5 10 1 1 0 0 1
 value=sr-ic-mcp9701at
+T 56600 55500 5 10 0 0 0 0 1
+footprint=SC70_5_sr.fp
 }
 C 54300 56500 1 270 0 capacitor-np-1.sym
 {

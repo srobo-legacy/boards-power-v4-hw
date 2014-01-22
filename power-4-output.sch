@@ -20,6 +20,8 @@ T 66100 56800 5 10 1 1 0 0 1
 refdes=U5
 T 66100 56600 5 10 1 1 0 0 1
 value=sr-ic-vnd5012
+T 65800 52200 5 10 0 0 0 0 1
+footprint=PowerSSO24_sr.fp
 }
 C 65800 47000 1 0 0 VND5012AK-1.sym
 {
@@ -29,6 +31,8 @@ T 66100 51600 5 10 1 1 0 0 1
 refdes=U6
 T 66100 51400 5 10 1 1 0 0 1
 value=sr-ic-vnd5012
+T 65800 47000 5 10 0 0 0 0 1
+footprint=PowerSSO24_sr.fp
 }
 C 65800 41800 1 0 0 VND5012AK-1.sym
 {
@@ -38,6 +42,8 @@ T 66100 46400 5 10 1 1 0 0 1
 refdes=U7
 T 66100 46200 5 10 1 1 0 0 1
 value=sr-ic-vnd5012
+T 65800 41800 5 10 0 0 0 0 1
+footprint=PowerSSO24_sr.fp
 }
 C 65800 36600 1 0 0 VND5012AK-1.sym
 {
@@ -47,6 +53,8 @@ T 66100 41200 5 10 1 1 0 0 1
 refdes=U8
 T 66100 41000 5 10 1 1 0 0 1
 value=sr-ic-vnd5012
+T 65800 36600 5 10 0 0 0 0 1
+footprint=PowerSSO24_sr.fp
 }
 C 65300 52100 1 0 0 gnd-1.sym
 N 65400 52400 65800 52400 4
