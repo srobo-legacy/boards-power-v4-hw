@@ -830,11 +830,9 @@ C 55900 51800 1 0 1 connector2-1.sym
 {
 T 54100 52700 5 10 0 0 0 6 1
 device=CONNECTOR_2
-T 55400 52800 5 10 1 1 0 0 1
-refdes=J5
 T 55400 52600 5 10 1 1 0 0 1
-value=sr-fan-40-10-12v
-T 56100 52100 5 20 1 1 0 1 2
+refdes=J5
+T 55400 53200 5 20 1 1 0 1 2
 comment=Fan
 (soldered to board)
 }
@@ -1026,3 +1024,14 @@ footprint=1206_sr.fp
 C 48100 44400 1 0 0 gnd-1.sym
 N 48200 45600 48200 45800 4
 N 48200 45800 51700 45800 4
+C 56100 51800 1 0 0 fan-1.sym
+{
+T 56100 52900 5 10 0 0 0 0 1
+device=FAN
+T 56100 52500 5 10 1 1 0 0 1
+refdes=X1
+T 56100 52300 5 10 1 1 0 0 1
+value=sr-fan-40-10-12v
+T 56100 51800 5 10 0 0 0 0 1
+footprint=fan40_sr.fp
+}

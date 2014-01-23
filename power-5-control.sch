@@ -1115,7 +1115,7 @@ C 67900 50800 1 0 0 piezo-1.sym
 T 67900 51900 5 10 0 0 0 0 1
 device=BUZZER
 T 68500 51300 5 10 1 1 0 0 1
-refdes=X1
+refdes=X2
 T 68500 51100 5 10 1 1 0 0 1
 value=sr-piezo-pkm13epy-4000-a0
 }
