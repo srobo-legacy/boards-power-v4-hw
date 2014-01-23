@@ -1774,6 +1774,8 @@ T 62600 53100 5 10 1 1 0 0 1
 refdes=RN1
 T 62600 52900 5 10 1 1 0 0 1
 value=sr-ra-4-10k-0402
+T 62700 52600 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 62700 47400 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -1785,6 +1787,8 @@ T 62700 48750 5 10 0 0 0 0 1
 slot=2
 T 62600 47700 5 10 1 1 0 0 1
 value=sr-ra-4-10k-0402
+T 62700 47400 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 62700 42200 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -1796,6 +1800,8 @@ T 62700 43550 5 10 0 0 0 0 1
 slot=3
 T 62600 42500 5 10 1 1 0 0 1
 value=sr-ra-4-10k-0402
+T 62700 42200 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 62700 37000 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -1807,6 +1813,8 @@ T 62700 38350 5 10 0 0 0 0 1
 slot=4
 T 62600 37300 5 10 1 1 0 0 1
 value=sr-ra-4-10k-0402
+T 62700 37000 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 62700 44000 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -1816,6 +1824,8 @@ T 62600 44500 5 10 1 1 0 0 1
 refdes=RN3
 T 62600 44300 5 10 1 1 0 0 1
 value=sr-ra-4-10k-0402
+T 62700 44000 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 62700 43100 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -1827,6 +1837,8 @@ T 62700 44450 5 10 0 0 0 0 1
 slot=2
 T 62600 43400 5 10 1 1 0 0 1
 value=sr-ra-4-10k-0402
+T 62700 43100 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 62700 38800 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -1838,6 +1850,8 @@ T 62700 40150 5 10 0 0 0 0 1
 slot=3
 T 62600 39100 5 10 1 1 0 0 1
 value=sr-ra-4-10k-0402
+T 62700 38800 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 62700 37900 1 0 0 resistor-iec-array-4-1.sym
 {
@@ -1849,6 +1863,8 @@ T 62700 39250 5 10 0 0 0 0 1
 slot=4
 T 62600 38200 5 10 1 1 0 0 1
 value=sr-ra-4-10k-0402
+T 62700 37900 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 57500 45100 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -1858,6 +1874,8 @@ T 57900 44700 5 10 1 1 0 0 1
 refdes=RN2
 T 57900 44500 5 10 1 1 0 0 1
 value=sr-ra-4-4k7-0402
+T 57500 45100 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 59500 42800 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -1869,6 +1887,8 @@ T 60850 42800 5 10 0 0 270 0 1
 slot=2
 T 59900 42200 5 10 1 1 0 0 1
 value=sr-ra-4-4k7-0402
+T 59500 42800 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 57500 39900 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -1880,6 +1900,8 @@ T 58850 39900 5 10 0 0 270 0 1
 slot=3
 T 57900 39300 5 10 1 1 0 0 1
 value=sr-ra-4-4k7-0402
+T 57500 39900 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 59500 37600 1 270 0 resistor-iec-array-4-1.sym
 {
@@ -1891,6 +1913,8 @@ T 60850 37600 5 10 0 0 270 0 1
 slot=4
 T 59900 37000 5 10 1 1 0 0 1
 value=sr-ra-4-4k7-0402
+T 59500 37600 5 10 0 0 0 0 1
+footprint=CAY10J4_sr.fp
 }
 C 69400 49000 1 270 0 led-dual-1.sym
 {
