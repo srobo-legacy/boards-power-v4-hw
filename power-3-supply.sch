@@ -461,6 +461,8 @@ T 55700 54800 5 10 1 1 0 0 1
 value=sr-sw-os102011ma1qn1
 T 56600 55600 5 20 1 1 0 3 1
 comment=Internal power switch
+T 56100 54500 5 10 0 0 0 0 1
+footprint=OS102011MA1QN1_sr.fp
 }
 N 75300 46200 75300 46600 4
 N 64600 36700 64600 37100 4
@@ -835,6 +837,10 @@ refdes=J5
 T 55400 53200 5 20 1 1 0 1 2
 comment=Fan
 (soldered to board)
+T 55900 51800 5 10 0 0 0 0 1
+footprint=header_254_1_2w_sr.fp
+T 55900 51800 5 10 0 0 0 0 1
+value=sr-nothing
 }
 C 54600 50500 1 0 0 nmos-sot323-gsd-1.sym
 {
@@ -1029,7 +1035,7 @@ C 56100 51800 1 0 0 fan-1.sym
 T 56100 52900 5 10 0 0 0 0 1
 device=FAN
 T 56100 52500 5 10 1 1 0 0 1
-refdes=X1
+refdes=X?
 T 56100 52300 5 10 1 1 0 0 1
 value=sr-fan-40-10-12v
 T 56100 51800 5 10 0 0 0 0 1

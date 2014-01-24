@@ -549,6 +549,8 @@ T 77500 51700 5 10 1 1 0 0 1
 value=sr-sw-button-ra-4.24mm
 T 76000 53000 5 20 1 1 0 0 1
 comment=Internal Start Button
+T 77000 52400 5 10 0 0 0 0 1
+footprint=FSMRA6JH_sr.fp
 }
 C 78800 48600 1 0 1 connector2-1.sym
 {
@@ -1115,9 +1117,11 @@ C 67900 50800 1 0 0 piezo-1.sym
 T 67900 51900 5 10 0 0 0 0 1
 device=BUZZER
 T 68500 51300 5 10 1 1 0 0 1
-refdes=X2
+refdes=X1
 T 68500 51100 5 10 1 1 0 0 1
 value=sr-piezo-pkm13epy-4000-a0
+T 67900 50800 5 10 0 0 0 0 1
+footprint=PKM13EPYH4000_sr.fp
 }
 C 64500 49700 1 0 0 nmos-sot323-gsd-1.sym
 {
