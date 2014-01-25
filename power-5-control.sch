@@ -383,7 +383,7 @@ value=OUTH0
 C 59200 47600 1 0 0 input-1.sym
 {
 T 59200 47800 5 10 0 0 0 0 1
-net=OUTH0:1
+net=OUTH1:1
 T 59800 48300 5 10 0 0 0 0 1
 device=none
 T 59700 47700 5 10 1 1 0 7 1
@@ -401,7 +401,7 @@ value=OUTL0
 C 59200 47200 1 0 0 input-1.sym
 {
 T 59200 47400 5 10 0 0 0 0 1
-net=OUTL0:1
+net=OUTL1:1
 T 59800 47900 5 10 0 0 0 0 1
 device=none
 T 59700 47300 5 10 1 1 0 7 1
