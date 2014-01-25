@@ -1213,7 +1213,7 @@ Element["" "SOD523_sr.fp" "D2" "sr-d-pesd5z12" 131.6000mm 108.6000mm 0.0000 0.00
 
 	)
 
-Element["" "0402_sr.fp" "C6" "sr-c-1u-0402-10v" 124.4000mm 94.3000mm 0.0000 0.0000 0 100 ""]
+Element["" "0402_sr.fp" "C6" "sr-c-1u-0402-10v" 126.3000mm 89.5000mm 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
@@ -2215,7 +2215,7 @@ Element["" "CAY10J4_sr.fp" "RN2" "sr-ra-4-4k7-0402" 141.8000mm 43.8000mm 0.0000 
 
 	)
 
-Element["" "CAY10J4_sr.fp" "RN3" "sr-ra-4-10k-0402" 123.9500mm 68.6000mm 0.0000 0.0000 3 100 ""]
+Element["" "CAY10J4_sr.fp" "RN3" "sr-ra-4-10k-0402" 125.8000mm 67.1000mm 0.0000 0.0000 3 100 ""]
 (
 	Attribute("device" "RESISTOR")
 	Attribute("manufacturer" "unknown")
@@ -2237,7 +2237,7 @@ Element["" "CAY10J4_sr.fp" "RN3" "sr-ra-4-10k-0402" 123.9500mm 68.6000mm 0.0000 
 
 	)
 
-Element["" "CAY10J4_sr.fp" "RN1" "sr-ra-4-10k-0402" 127.3500mm 68.5000mm 0.0000 0.0000 3 100 ""]
+Element["" "CAY10J4_sr.fp" "RN1" "sr-ra-4-10k-0402" 120.4000mm 67.1000mm 0.0000 0.0000 3 100 ""]
 (
 	Attribute("device" "RESISTOR")
 	Attribute("manufacturer" "unknown")
@@ -2373,35 +2373,35 @@ Element["" "SOD523_sr.fp" "D7" "sr-d-pesd5z12" 149.3000mm 105.4000mm 0.0000 0.00
 
 	)
 
-Element["" "0402_sr.fp" "R32" "sr-r-10k-0402" 123.3500mm 66.1000mm 0.0000 0.0000 0 100 ""]
+Element["" "0402_sr.fp" "R32" "sr-r-10k-0402" 122.2000mm 67.1000mm 0.0000 0.0000 1 100 ""]
 (
 	Attribute("device" "RESISTOR")
 	Attribute("manufacturer" "unknown")
 	Attribute("manufacturer_part_number" "unknown")
 	Attribute("vendor" "unknown")
 	Attribute("vendor_part_number" "unknown")
-	Pad[-0.4510mm 0.0000 -0.4490mm 0.0000 0.6200mm 0.5000mm 0.9200mm "2" "2" "square"]
-	Pad[0.4490mm 0.0000 0.4510mm 0.0000 0.6200mm 0.5000mm 0.9200mm "1" "1" "square,edge2"]
-	ElementLine [-0.9500mm -0.5000mm 0.9500mm -0.5000mm 0.1500mm]
-	ElementLine [-0.9500mm 0.5000mm 0.9500mm 0.5000mm 0.1500mm]
-	ElementLine [-0.9500mm -0.5000mm -0.9500mm 0.5000mm 0.1500mm]
-	ElementLine [0.9500mm -0.5000mm 0.9500mm 0.5000mm 0.1500mm]
+	Pad[0.0000 0.4490mm 0.0000 0.4510mm 0.6200mm 0.5000mm 0.9200mm "2" "2" "square,edge2"]
+	Pad[0.0000 -0.4510mm 0.0000 -0.4490mm 0.6200mm 0.5000mm 0.9200mm "1" "1" "square"]
+	ElementLine [-0.5000mm -0.9500mm -0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [0.5000mm -0.9500mm 0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm 0.9500mm 0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm -0.9500mm 0.5000mm -0.9500mm 0.1500mm]
 
 	)
 
-Element["" "0402_sr.fp" "R25" "sr-r-10k-0402" 125.7500mm 66.2000mm 0.0000 0.0000 0 100 ""]
+Element["" "0402_sr.fp" "R25" "sr-r-10k-0402" 124.0000mm 67.1000mm 0.0000 0.0000 1 100 ""]
 (
 	Attribute("device" "RESISTOR")
 	Attribute("manufacturer" "unknown")
 	Attribute("manufacturer_part_number" "unknown")
 	Attribute("vendor" "unknown")
 	Attribute("vendor_part_number" "unknown")
-	Pad[-0.4510mm 0.0000 -0.4490mm 0.0000 0.6200mm 0.5000mm 0.9200mm "2" "2" "square"]
-	Pad[0.4490mm 0.0000 0.4510mm 0.0000 0.6200mm 0.5000mm 0.9200mm "1" "1" "square,edge2"]
-	ElementLine [-0.9500mm -0.5000mm 0.9500mm -0.5000mm 0.1500mm]
-	ElementLine [-0.9500mm 0.5000mm 0.9500mm 0.5000mm 0.1500mm]
-	ElementLine [-0.9500mm -0.5000mm -0.9500mm 0.5000mm 0.1500mm]
-	ElementLine [0.9500mm -0.5000mm 0.9500mm 0.5000mm 0.1500mm]
+	Pad[0.0000 0.4490mm 0.0000 0.4510mm 0.6200mm 0.5000mm 0.9200mm "2" "2" "square,edge2"]
+	Pad[0.0000 -0.4510mm 0.0000 -0.4490mm 0.6200mm 0.5000mm 0.9200mm "1" "1" "square"]
+	ElementLine [-0.5000mm -0.9500mm -0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [0.5000mm -0.9500mm 0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm 0.9500mm 0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm -0.9500mm 0.5000mm -0.9500mm 0.1500mm]
 
 	)
 
@@ -3864,63 +3864,63 @@ Element["" "1206_sr.fp" "C13" "sr-c-10u-1206-16v" 156.8000mm 14.0000mm 0.0000 0.
 
 	)
 
-Element["" "SOT28_sr.fp" "U1" "sr-ic-ina219" 125.5000mm 91.7750mm 0.0000 0.0000 0 100 ""]
+Element["" "SOT28_sr.fp" "U1" "sr-ic-ina219" 125.2000mm 92.0250mm 0.0000 0.0000 2 100 ""]
 (
 	Attribute("device" "INA219")
 	Attribute("manufacturer" "unknown")
 	Attribute("manufacturer_part_number" "unknown")
 	Attribute("vendor" "unknown")
 	Attribute("vendor_part_number" "unknown")
-	Pad[-1.6250mm -0.9750mm -0.9750mm -0.9750mm 0.4500mm 0.5000mm 0.7500mm "Vin+" "1" "square"]
-	Pad[-1.6250mm -0.3250mm -0.9750mm -0.3250mm 0.4500mm 0.5000mm 0.7500mm "Vin-" "2" "square"]
-	Pad[-1.6250mm 0.3250mm -0.9750mm 0.3250mm 0.4500mm 0.5000mm 0.7500mm "GND" "3" "square"]
-	Pad[-1.6250mm 0.9750mm -0.9750mm 0.9750mm 0.4500mm 0.5000mm 0.7500mm "Vs" "4" "square"]
-	Pad[0.9750mm -0.9750mm 1.6250mm -0.9750mm 0.4500mm 0.5000mm 0.7500mm "A1" "8" "square,edge2"]
-	Pad[0.9750mm -0.3250mm 1.6250mm -0.3250mm 0.4500mm 0.5000mm 0.7500mm "A0" "7" "square,edge2"]
-	Pad[0.9750mm 0.3250mm 1.6250mm 0.3250mm 0.4500mm 0.5000mm 0.7500mm "SDA" "6" "square,edge2"]
-	Pad[0.9750mm 0.9750mm 1.6250mm 0.9750mm 0.4500mm 0.5000mm 0.7500mm "SCL" "5" "square,edge2"]
-	ElementLine [-2.1000mm -1.7500mm 2.1000mm -1.7500mm 0.2000mm]
+	Pad[0.9750mm 0.9750mm 1.6250mm 0.9750mm 0.4500mm 0.5000mm 0.7500mm "Vin+" "1" "square,edge2"]
+	Pad[0.9750mm 0.3250mm 1.6250mm 0.3250mm 0.4500mm 0.5000mm 0.7500mm "Vin-" "2" "square,edge2"]
+	Pad[0.9750mm -0.3250mm 1.6250mm -0.3250mm 0.4500mm 0.5000mm 0.7500mm "GND" "3" "square,edge2"]
+	Pad[0.9750mm -0.9750mm 1.6250mm -0.9750mm 0.4500mm 0.5000mm 0.7500mm "Vs" "4" "square,edge2"]
+	Pad[-1.6250mm 0.9750mm -0.9750mm 0.9750mm 0.4500mm 0.5000mm 0.7500mm "A1" "8" "square"]
+	Pad[-1.6250mm 0.3250mm -0.9750mm 0.3250mm 0.4500mm 0.5000mm 0.7500mm "A0" "7" "square"]
+	Pad[-1.6250mm -0.3250mm -0.9750mm -0.3250mm 0.4500mm 0.5000mm 0.7500mm "SDA" "6" "square"]
+	Pad[-1.6250mm -0.9750mm -0.9750mm -0.9750mm 0.4500mm 0.5000mm 0.7500mm "SCL" "5" "square"]
 	ElementLine [-2.1000mm 1.7500mm 2.1000mm 1.7500mm 0.2000mm]
-	ElementLine [-2.1000mm -1.7500mm -2.1000mm 1.7500mm 0.2000mm]
+	ElementLine [-2.1000mm -1.7500mm 2.1000mm -1.7500mm 0.2000mm]
 	ElementLine [2.1000mm -1.7500mm 2.1000mm 1.7500mm 0.2000mm]
-	ElementLine [-2.2000mm -1.8500mm -2.2000mm -0.8500mm 0.3000mm]
-	ElementLine [-2.2000mm -1.8500mm -1.2000mm -1.8500mm 0.3000mm]
+	ElementLine [-2.1000mm -1.7500mm -2.1000mm 1.7500mm 0.2000mm]
+	ElementLine [2.2000mm 0.8500mm 2.2000mm 1.8500mm 0.3000mm]
+	ElementLine [1.2000mm 1.8500mm 2.2000mm 1.8500mm 0.3000mm]
 
 	)
 
-Element["" "0402_sr.fp" "C5" "sr-c-100n-0402-16v" 127.1500mm 94.5000mm 0.0000 0.0000 0 100 ""]
+Element["" "0402_sr.fp" "C5" "sr-c-100n-0402-16v" 128.1000mm 91.2000mm 0.0000 0.0000 1 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
 	Attribute("manufacturer_part_number" "unknown")
 	Attribute("vendor" "unknown")
 	Attribute("vendor_part_number" "unknown")
-	Pad[-0.4510mm 0.0000 -0.4490mm 0.0000 0.6200mm 0.5000mm 0.9200mm "2" "2" "square"]
-	Pad[0.4490mm 0.0000 0.4510mm 0.0000 0.6200mm 0.5000mm 0.9200mm "1" "1" "square,edge2"]
-	ElementLine [-0.9500mm -0.5000mm 0.9500mm -0.5000mm 0.1500mm]
-	ElementLine [-0.9500mm 0.5000mm 0.9500mm 0.5000mm 0.1500mm]
-	ElementLine [-0.9500mm -0.5000mm -0.9500mm 0.5000mm 0.1500mm]
-	ElementLine [0.9500mm -0.5000mm 0.9500mm 0.5000mm 0.1500mm]
+	Pad[0.0000 0.4490mm 0.0000 0.4510mm 0.6200mm 0.5000mm 0.9200mm "2" "2" "square,edge2"]
+	Pad[0.0000 -0.4510mm 0.0000 -0.4490mm 0.6200mm 0.5000mm 0.9200mm "1" "1" "square"]
+	ElementLine [-0.5000mm -0.9500mm -0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [0.5000mm -0.9500mm 0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm 0.9500mm 0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm -0.9500mm 0.5000mm -0.9500mm 0.1500mm]
 
 	)
 
-Element["" "0402_sr.fp" "C4" "sr-c-100n-0402-16v" 124.3500mm 87.4750mm 0.0000 0.0000 0 100 ""]
+Element["" "0402_sr.fp" "C4" "sr-c-100n-0402-16v" 127.2000mm 95.2000mm 0.0000 0.0000 1 100 ""]
 (
 	Attribute("device" "CAPACITOR")
 	Attribute("manufacturer" "unknown")
 	Attribute("manufacturer_part_number" "unknown")
 	Attribute("vendor" "unknown")
 	Attribute("vendor_part_number" "unknown")
-	Pad[-0.4510mm 0.0000 -0.4490mm 0.0000 0.6200mm 0.5000mm 0.9200mm "2" "2" "square"]
-	Pad[0.4490mm 0.0000 0.4510mm 0.0000 0.6200mm 0.5000mm 0.9200mm "1" "1" "square,edge2"]
-	ElementLine [-0.9500mm -0.5000mm 0.9500mm -0.5000mm 0.1500mm]
-	ElementLine [-0.9500mm 0.5000mm 0.9500mm 0.5000mm 0.1500mm]
-	ElementLine [-0.9500mm -0.5000mm -0.9500mm 0.5000mm 0.1500mm]
-	ElementLine [0.9500mm -0.5000mm 0.9500mm 0.5000mm 0.1500mm]
+	Pad[0.0000 0.4490mm 0.0000 0.4510mm 0.6200mm 0.5000mm 0.9200mm "2" "2" "square,edge2"]
+	Pad[0.0000 -0.4510mm 0.0000 -0.4490mm 0.6200mm 0.5000mm 0.9200mm "1" "1" "square"]
+	ElementLine [-0.5000mm -0.9500mm -0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [0.5000mm -0.9500mm 0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm 0.9500mm 0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm -0.9500mm 0.5000mm -0.9500mm 0.1500mm]
 
 	)
 
-Element["" "0402_sr.fp" "R4" "sr-r-10-0402" 126.6500mm 87.8000mm 0.0000 0.0000 0 100 ""]
+Element["" "0402_sr.fp" "R4" "sr-r-10-0402" 128.9500mm 95.7000mm 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "RESISTOR")
 	Attribute("manufacturer" "unknown")
@@ -3936,7 +3936,7 @@ Element["" "0402_sr.fp" "R4" "sr-r-10-0402" 126.6500mm 87.8000mm 0.0000 0.0000 0
 
 	)
 
-Element["" "0402_sr.fp" "R3" "sr-r-10-0402" 125.7500mm 89.1750mm 0.0000 0.0000 0 100 ""]
+Element["" "0402_sr.fp" "R3" "sr-r-10-0402" 128.9500mm 94.7000mm 0.0000 0.0000 0 100 ""]
 (
 	Attribute("device" "RESISTOR")
 	Attribute("manufacturer" "unknown")
@@ -5477,17 +5477,17 @@ NetList()
 	)
 	Net("CSDIS0" "(unknown)")
 	(
-		Connect("RN1-1")
+		Connect("R25-1")
 		Connect("U10-8")
 	)
 	Net("CSDIS1" "(unknown)")
 	(
-		Connect("RN1-2")
+		Connect("RN1-1")
 		Connect("U10-9")
 	)
 	Net("CSDIS2" "(unknown)")
 	(
-		Connect("RN1-3")
+		Connect("RN3-3")
 		Connect("U10-10")
 	)
 	Net("CSDIS3" "(unknown)")
@@ -5715,7 +5715,7 @@ NetList()
 	Net("OUTH0EN" "(unknown)")
 	(
 		Connect("R24-1")
-		Connect("R25-1")
+		Connect("RN3-4")
 		Connect("TP20-1")
 		Connect("U10-29")
 	)
@@ -5781,7 +5781,7 @@ NetList()
 	Net("OUTL0EN" "(unknown)")
 	(
 		Connect("RN2-1")
-		Connect("RN3-1")
+		Connect("RN3-2")
 		Connect("TP31-1")
 		Connect("U10-37")
 	)
@@ -5810,7 +5810,7 @@ NetList()
 	Net("OUTL1EN" "(unknown)")
 	(
 		Connect("RN2-2")
-		Connect("RN3-2")
+		Connect("RN3-1")
 		Connect("TP33-1")
 		Connect("U10-38")
 	)
@@ -5839,8 +5839,8 @@ NetList()
 	)
 	Net("OUTL2EN" "(unknown)")
 	(
+		Connect("RN1-3")
 		Connect("RN2-3")
-		Connect("RN3-3")
 		Connect("TP39-1")
 		Connect("U10-39")
 	)
@@ -5869,8 +5869,8 @@ NetList()
 	)
 	Net("OUTL3EN" "(unknown)")
 	(
+		Connect("RN1-2")
 		Connect("RN2-4")
-		Connect("RN3-4")
 		Connect("TP45-1")
 		Connect("U10-40")
 	)
@@ -6123,13 +6123,13 @@ NetList()
 	)
 	Net("unnamed_net27" "(unknown)")
 	(
-		Connect("R25-2")
+		Connect("RN3-5")
 		Connect("U5-4")
 		Connect("U5-6")
 	)
 	Net("unnamed_net28" "(unknown)")
 	(
-		Connect("RN1-8")
+		Connect("R25-2")
 		Connect("U5-11")
 	)
 	Net("unnamed_net29" "(unknown)")
@@ -6140,32 +6140,32 @@ NetList()
 	)
 	Net("unnamed_net30" "(unknown)")
 	(
-		Connect("RN1-7")
+		Connect("RN1-8")
 		Connect("U6-11")
 	)
 	Net("unnamed_net31" "(unknown)")
 	(
-		Connect("RN3-8")
+		Connect("RN3-7")
 		Connect("U7-6")
 	)
 	Net("unnamed_net32" "(unknown)")
 	(
-		Connect("RN3-7")
+		Connect("RN3-8")
 		Connect("U7-4")
 	)
 	Net("unnamed_net33" "(unknown)")
 	(
-		Connect("RN1-6")
+		Connect("RN3-6")
 		Connect("U7-11")
 	)
 	Net("unnamed_net34" "(unknown)")
 	(
-		Connect("RN3-6")
+		Connect("RN1-6")
 		Connect("U8-6")
 	)
 	Net("unnamed_net35" "(unknown)")
 	(
-		Connect("RN3-5")
+		Connect("RN1-7")
 		Connect("U8-4")
 	)
 	Net("unnamed_net36" "(unknown)")
