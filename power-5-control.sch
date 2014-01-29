@@ -546,11 +546,11 @@ refdes=S2
 T 77600 52000 5 10 0 0 270 0 1
 device=SWITCH_PUSHBUTTON_NO
 T 77500 51700 5 10 1 1 0 0 1
-value=sr-sw-button-ra-4.24mm
+value=sr-sw-spph410200
 T 76000 53000 5 20 1 1 0 0 1
 comment=Internal Start Button
 T 77000 52400 5 10 0 0 0 0 1
-footprint=FSMRA6JH_sr.fp
+footprint=SPPH4_sr.fp
 }
 C 78800 48600 1 0 1 connector2-1.sym
 {
