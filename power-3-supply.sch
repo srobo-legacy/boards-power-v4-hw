@@ -449,21 +449,8 @@ T 60300 55500 5 10 0 0 0 0 1
 footprint=camcon_50_2_sr.fp
 }
 N 59800 54700 59800 54500 4
-N 59800 54500 57100 54500 4
+N 59800 54500 57500 54500 4
 N 60100 54700 60100 54500 4
-C 56100 54500 1 0 0 spst-1.sym
-{
-T 55900 55000 5 10 1 1 0 0 1
-refdes=S1
-T 56100 55200 5 10 0 0 0 0 1
-device=SWITCH_SPST
-T 55900 54800 5 10 1 1 0 0 1
-value=sr-sw-spph410100
-T 56600 55600 5 20 1 1 0 3 1
-comment=Internal power switch
-T 56100 54500 5 10 0 0 0 0 1
-footprint=SPPH4_sr.fp
-}
 N 75300 46200 75300 46600 4
 N 64600 36700 64600 37100 4
 C 59200 52400 1 0 0 tvs-dual-unidirectional-1.sym
@@ -1041,3 +1028,18 @@ value=sr-fan-40-10-12v
 T 56100 51800 5 10 0 0 0 0 1
 footprint=fan40_sr.fp
 }
+C 56100 54400 1 0 0 dpdt-1.sym
+{
+T 55900 55500 5 10 1 1 0 0 1
+refdes=S1
+T 56100 55400 5 10 0 0 0 0 1
+device=SWITCH_DPDT
+T 55900 55300 5 10 1 1 0 0 1
+value=sr-sw-spph410100
+T 56600 55900 5 20 1 1 0 3 1
+comment=Internal power switch
+T 56100 54400 5 10 0 1 0 0 1
+footprint=SPPH4_sr.fp
+}
+N 57100 54400 57500 54400 4
+N 57500 54400 57500 54500 4

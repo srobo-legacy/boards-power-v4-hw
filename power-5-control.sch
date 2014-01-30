@@ -539,19 +539,6 @@ C 50100 55200 1 0 0 gnd-1.sym
 C 50000 56000 1 0 0 3V3-plus-1.sym
 N 50200 56000 49200 56000 4
 N 50200 55500 49200 55500 4
-C 77000 52400 1 270 0 pushbutton-no-1.sym
-{
-T 77500 51900 5 10 1 1 0 0 1
-refdes=S2
-T 77600 52000 5 10 0 0 270 0 1
-device=SWITCH_PUSHBUTTON_NO
-T 77500 51700 5 10 1 1 0 0 1
-value=sr-sw-spph410200
-T 76000 53000 5 20 1 1 0 0 1
-comment=Internal Start Button
-T 77000 52400 5 10 0 0 0 0 1
-footprint=SPPH4_sr.fp
-}
 C 78800 48600 1 0 1 connector2-1.sym
 {
 T 77000 49500 5 10 0 0 0 6 1
@@ -1555,3 +1542,16 @@ netname=FLAT
 }
 T 56500 35200 9 20 1 0 0 5 1
 Output Status LEDs
+C 76600 52400 1 270 0 pushbutton-dpdt-1.sym
+{
+T 77475 51975 5 10 1 1 0 0 1
+refdes=S2
+T 77900 52400 5 10 0 0 270 0 1
+device=SWITCH_PUSHBUTTON_DPDT
+T 77500 51800 5 10 1 1 0 0 1
+value=sr-sw-spph410200
+T 76000 53000 5 20 1 1 0 0 1
+comment=Internal Start Button
+T 76600 52400 5 10 0 1 270 0 1
+footprint=SPPH4_sr.fp
+}
