@@ -438,11 +438,11 @@ C 74500 44800 1 0 0 gnd-1.sym
 C 77200 45900 1 0 1 input-1.sym
 {
 T 77200 46100 5 10 0 0 0 6 1
-net=3V3:1
+net=+3V3:1
 T 76600 46600 5 10 0 0 0 6 1
 device=none
 T 76700 46000 5 10 1 1 0 1 1
-value=3V3
+value=+3V3
 }
 C 61700 42600 1 0 0 tvs-unidirectional-1.sym
 {
