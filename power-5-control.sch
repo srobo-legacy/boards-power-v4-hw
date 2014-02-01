@@ -1555,3 +1555,13 @@ comment=Internal Start Button
 T 76600 52400 5 10 0 1 270 0 1
 footprint=SPPH4_sr.fp
 }
+C 70300 45600 1 0 1 input-1.sym
+{
+T 70300 45800 5 10 0 0 0 6 1
+net=PWRSW:1
+T 69700 46300 5 10 0 0 0 6 1
+device=none
+T 69800 45700 5 10 1 1 0 1 1
+value=PWRSW
+}
+N 68900 45700 67600 45700 4
