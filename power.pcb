@@ -9,7 +9,7 @@ Grid[393.700787 0.0000 0.0000 1]
 PolyArea[3100.006200]
 Thermal[0.500000]
 DRC[0.1500mm 0.1400mm 0.1500mm 0.1500mm 0.3000mm 0.2000mm]
-Flags("showdrc,rubberband,nameonpcb,clearnew,snappin,locknames,hidenames")
+Flags("showdrc,nameonpcb,clearnew,snappin,locknames,hidenames")
 Groups("1,c:2,s:3:4:5:6")
 Styles["Signal,0.2000mm,0.7000mm,0.3000mm,0.2500mm:Power,0.5000mm,0.7000mm,0.3000mm,0.2500mm:Fat,1.4000mm,0.7000mm,0.3000mm,0.2500mm:Skinny,0.1500mm,0.7000mm,0.3000mm,0.2500mm"]
 
@@ -6016,28 +6016,6 @@ Element["" "0402_sr.fp" "R57" "sr-r-4k7-0402" 61.2000mm 30.3000mm 0.0000 0.0000 
 
 	)
 
-Element["lock" "fan40_sr.fp" "X?" "sr-fan-40-10-12v" 42.5000mm 56.5000mm 0.0000 0.0000 1 100 ""]
-(
-	Attribute("device" "FAN")
-	Attribute("manufacturer" "unknown")
-	Attribute("manufacturer_part_number" "unknown")
-	Attribute("vendor" "unknown")
-	Attribute("vendor_part_number" "unknown")
-	Pin[-16.0000mm 16.0000mm 4.2000mm 0.2500mm 4.2000mm 4.2000mm "1" "1" "hole,lock"]
-	Pin[16.0000mm -16.0000mm 4.2000mm 0.2500mm 4.2000mm 4.2000mm "2" "2" "hole,lock"]
-	ElementLine [-20.0000mm 18.0000mm -20.0000mm 20.0000mm 0.2000mm]
-	ElementLine [-20.0000mm 20.0000mm -18.0000mm 20.0000mm 0.2000mm]
-	ElementLine [-20.0000mm -20.0000mm -20.0000mm -18.0000mm 0.2000mm]
-	ElementLine [-20.0000mm -20.0000mm -18.0000mm -20.0000mm 0.2000mm]
-	ElementLine [20.0000mm 18.0000mm 20.0000mm 20.0000mm 0.2000mm]
-	ElementLine [18.0000mm 20.0000mm 20.0000mm 20.0000mm 0.2000mm]
-	ElementLine [20.0000mm -20.0000mm 20.0000mm -18.0000mm 0.2000mm]
-	ElementLine [18.0000mm -20.0000mm 20.0000mm -20.0000mm 0.2000mm]
-	ElementArc [-16.0000mm 16.0000mm 3.1250mm 3.2000mm 90 360 0.2000mm]
-	ElementArc [16.0000mm -16.0000mm 3.1250mm 3.2000mm 90 360 0.2000mm]
-
-	)
-
 Element["" "0402_sr.fp" "R63" "sr-r-100-0402" 51.2000mm 37.6000mm 0.0000 0.0000 1 100 ""]
 (
 	Attribute("device" "RESISTOR")
@@ -6051,6 +6029,28 @@ Element["" "0402_sr.fp" "R63" "sr-r-100-0402" 51.2000mm 37.6000mm 0.0000 0.0000 
 	ElementLine [0.5000mm -0.9500mm 0.5000mm 0.9500mm 0.1500mm]
 	ElementLine [-0.5000mm 0.9500mm 0.5000mm 0.9500mm 0.1500mm]
 	ElementLine [-0.5000mm -0.9500mm 0.5000mm -0.9500mm 0.1500mm]
+
+	)
+
+Element["lock" "fan40_sr.fp" "X?" "sr-fan-40-10-12v" 42.5000mm 56.5000mm 0.0000 0.0000 1 100 ""]
+(
+	Attribute("device" "FAN")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pin[-16.0000mm 16.0000mm 3.2000mm 0.5000mm 3.2000mm 3.2000mm "1" "1" "hole,lock"]
+	Pin[16.0000mm -16.0000mm 3.2000mm 0.5000mm 3.2000mm 3.2000mm "2" "2" "hole,lock"]
+	ElementLine [-20.0000mm 18.0000mm -20.0000mm 20.0000mm 0.2000mm]
+	ElementLine [-20.0000mm 20.0000mm -18.0000mm 20.0000mm 0.2000mm]
+	ElementLine [-20.0000mm -20.0000mm -20.0000mm -18.0000mm 0.2000mm]
+	ElementLine [-20.0000mm -20.0000mm -18.0000mm -20.0000mm 0.2000mm]
+	ElementLine [20.0000mm 18.0000mm 20.0000mm 20.0000mm 0.2000mm]
+	ElementLine [18.0000mm 20.0000mm 20.0000mm 20.0000mm 0.2000mm]
+	ElementLine [20.0000mm -20.0000mm 20.0000mm -18.0000mm 0.2000mm]
+	ElementLine [18.0000mm -20.0000mm 20.0000mm -20.0000mm 0.2000mm]
+	ElementArc [-16.0000mm 16.0000mm 3.1250mm 3.2000mm 90 360 0.2000mm]
+	ElementArc [16.0000mm -16.0000mm 3.1250mm 3.2000mm 90 360 0.2000mm]
 
 	)
 Layer(1 "top")
