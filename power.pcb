@@ -6032,7 +6032,7 @@ Element["" "0402_sr.fp" "R63" "sr-r-100-0402" 51.2000mm 37.6000mm -0.5000mm 0.70
 
 	)
 
-Element["lock" "fan40_sr.fp" "X?" "sr-fan-40-10-12v" 42.5000mm 56.5000mm -0.7000mm -0.8000mm 0 100 ""]
+Element["lock" "fan40_sr.fp" "X2" "sr-fan-40-10-12v" 42.5000mm 56.5000mm -0.8055mm -0.7683mm 0 100 ""]
 (
 	Attribute("device" "FAN")
 	Attribute("manufacturer" "unknown")
