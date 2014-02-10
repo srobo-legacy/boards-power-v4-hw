@@ -1,0 +1,17 @@
+I performed the following steps to get the inkscape design into PCB:
+
+ 1. Export to PS
+ 2. Convert to PCB with:
+    pstoedit -usebbfrominput -flat 0.001 -f pcb:-mm [name].ps [name].pcb
+ 3. Fix the holes in letters with PolyCombine:
+    http://www.seul.org/pipermail/geda-user/2011-May/053830.html
+ 4. Move everything to the silk layer
+ 5. Import the PCB file into the main layout
+ 6. Position things
+
+Notes
+
+The font is DejaVu Sans Mono and all text had to be converted to paths to allow
+it to be subtracted from the rectangle. To ensure that the PolyCombine step
+works you must reverse the winding direction of the polygon in InkScape after
+subtracting the text.
