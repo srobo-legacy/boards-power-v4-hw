@@ -794,7 +794,7 @@ device=RESETTABLE_FUSE
 T 52600 55700 5 10 0 0 0 0 1
 symversion=1
 T 52400 54900 5 10 1 1 0 0 1
-value=sr-fuse-r100-1206
+value=sr-fuse-r125-1206
 T 52600 54300 5 10 0 0 0 0 1
 footprint=1206_sr.fp
 }
@@ -867,7 +867,7 @@ device=RESETTABLE_FUSE
 T 52600 54100 5 10 0 0 0 0 1
 symversion=1
 T 52400 53300 5 10 1 1 0 0 1
-value=sr-fuse-r100-1206
+value=sr-fuse-r125-1206
 T 52600 52700 5 10 0 0 0 0 1
 footprint=1206_sr.fp
 }
