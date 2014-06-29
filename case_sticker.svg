@@ -14,7 +14,7 @@
    height="301.18109"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="case_sticker.svg">
   <defs
      id="defs4">
@@ -69,16 +69,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="174.57425"
-     inkscape:cy="134.94808"
+     inkscape:zoom="2.8"
+     inkscape:cx="100.94443"
+     inkscape:cy="278.18326"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="745"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="mm"
      inkscape:snap-bbox="true"
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1981,9 +1981,9 @@
          id="text3778"
          y="214.61502"
          x="-1024.4197"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:Eurostile Bold"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:Eurostile-Bold Bold"
          xml:space="preserve"><tspan
-           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile Bold"
            y="214.61502"
            x="-1024.4197"
            id="tspan3780"
@@ -2002,7 +2002,7 @@
          ry="3.5433071" />
       <text
          xml:space="preserve"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:Eurostile Bold"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:Eurostile-Bold Bold"
          x="-1022.8674"
          y="214.61502"
          id="text5374"
@@ -2012,7 +2012,7 @@
            id="tspan5376"
            x="-1022.8674"
            y="214.61502"
-           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold">H1</tspan></text>
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile Bold">H1</tspan></text>
     </g>
     <g
        transform="translate(3.5432879,-102.75586)"
@@ -2037,7 +2037,7 @@
            id="tspan5384"
            x="-1022.4431"
            y="214.61502"
-           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold">L0</tspan></text>
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile Bold">L0</tspan></text>
     </g>
     <g
        id="g5386"
@@ -2058,7 +2058,7 @@
          x="-1020.8908"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          xml:space="preserve"><tspan
-           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile Bold"
            y="214.61502"
            x="-1020.8908"
            id="tspan5392"
@@ -2083,7 +2083,7 @@
          x="-1022.2712"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          xml:space="preserve"><tspan
-           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile Bold"
            y="214.61502"
            x="-1022.2712"
            id="tspan5400"
@@ -2111,7 +2111,7 @@
            sodipodi:role="line"
            x="-1022.2014"
            y="214.6741"
-           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile Bold"
            id="tspan5410">L2</tspan></text>
     </g>
     <g
@@ -2136,11 +2136,11 @@
        sodipodi:cy="42.519672"
        sodipodi:rx="17.716536"
        sodipodi:ry="17.716536"
-       d="m 205.51181,42.519672 a 17.716536,17.716536 0 1 1 -35.43307,0 17.716536,17.716536 0 1 1 35.43307,0 z"
+       d="m 205.51181,42.519672 c 0,9.784573 -7.93196,17.716536 -17.71654,17.716536 -9.78457,0 -17.71653,-7.931963 -17.71653,-17.716536 0,-9.784572 7.93196,-17.716535 17.71653,-17.716535 9.78458,0 17.71654,7.931963 17.71654,17.716535 z"
        transform="translate(0,751.18109)" />
     <path
        transform="translate(-145.27559,751.18109)"
-       d="m 205.51181,42.519672 a 17.716536,17.716536 0 1 1 -35.43307,0 17.716536,17.716536 0 1 1 35.43307,0 z"
+       d="m 205.51181,42.519672 c 0,9.784573 -7.93196,17.716536 -17.71654,17.716536 -9.78457,0 -17.71653,-7.931963 -17.71653,-17.716536 0,-9.784572 7.93196,-17.716535 17.71653,-17.716535 9.78458,0 17.71654,7.931963 17.71654,17.716535 z"
        sodipodi:ry="17.716536"
        sodipodi:rx="17.716536"
        sodipodi:cy="42.519672"
@@ -2208,7 +2208,7 @@
          x="429.52313"
          style="font-size:8.34538269px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          xml:space="preserve"><tspan
-           style="font-size:7.58671188px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+           style="font-size:7.58671188px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile Bold"
            y="616.64508"
            x="429.52313"
            id="tspan6084"
@@ -2225,7 +2225,7 @@
          style="fill:#ff0000;stroke:#ff0000;stroke-width:7.08661413;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          xml:space="preserve"
-         style="font-size:10.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         style="font-size:10.99999904999999956px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eurostile-Bold-Bold;-inkscape-font-specification:Eurostile-Bold Bold"
          x="-51.477165"
          y="-764.52832"
          id="text6082-6"
@@ -2235,7 +2235,7 @@
            id="tspan6084-3"
            x="-51.477165"
            y="-764.52832"
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold">ON❙OFF</tspan></text>
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile-Bold Bold">ON❙OFF</tspan></text>
     </g>
     <g
        id="g6203">
@@ -2254,7 +2254,7 @@
          x="-209.69635"
          style="font-size:10.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          xml:space="preserve"><tspan
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile Bold"
            y="-762.02179"
            x="-209.69635"
            id="tspan6084-3-0"
@@ -2280,7 +2280,7 @@
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          xml:space="preserve"><tspan
            id="tspan6214"
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile Bold"
            y="215.01826"
            x="-1023.4623"
            sodipodi:role="line">5V</tspan></text>
@@ -2307,7 +2307,7 @@
            sodipodi:role="line"
            x="-1026.5873"
            y="215.04512"
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile Bold"
            id="tspan6222">USB</tspan></text>
     </g>
   </g>
