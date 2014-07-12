@@ -69,12 +69,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="112.54666"
-     inkscape:cy="39.435282"
+     inkscape:zoom="1.979899"
+     inkscape:cx="115.83355"
+     inkscape:cy="143.66554"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3473"
-     showgrid="true"
+     inkscape:current-layer="layer1"
+     showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="836"
      inkscape:window-x="0"
@@ -2563,6 +2563,19 @@
            y="202.77864"
            style="font-size:12px">➖</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#253571;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="223.9295"
+       y="1045.1495"
+       id="text3483"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3485"
+         x="223.9295"
+         y="1045.1495"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#253571;fill-opacity:1;font-family:Eurostile-Bold;-inkscape-font-specification:Eurostile-Bold Bold"
+         dx="0 0 0 0 0 0 0 0.1 -0.5 0 0 0.1 0">Power Board V4</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
