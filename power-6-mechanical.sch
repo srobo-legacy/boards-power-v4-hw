@@ -119,3 +119,192 @@ L 62550 48800 62150 48800 3 0 1 0 -1 -1
 L 62550 49450 62150 49350 3 0 1 0 -1 -1
 L 62550 49750 62050 49500 3 0 1 0 -1 -1
 L 62550 50050 62000 50050 3 0 1 0 -1 -1
+B 52000 41700 12000 4800 3 0 1 2 100 100 0 -1 -1 -1 -1 -1
+T 58000 46300 9 40 1 0 0 5 1
+Case Assembly
+C 52700 44600 1 0 0 screw-1.sym
+{
+T 52700 45700 5 10 0 0 0 0 1
+device=SCREW
+T 52700 45100 5 10 1 1 0 0 1
+refdes=MP?
+T 53500 44800 5 10 1 1 0 1 1
+value=sr-mech-screw-nylon-csk-m3-6
+}
+C 52700 43800 1 0 0 screw-1.sym
+{
+T 52700 44900 5 10 0 0 0 0 1
+device=SCREW
+T 52700 44300 5 10 1 1 0 0 1
+refdes=MP?
+T 53500 44000 5 10 1 1 0 1 1
+value=sr-mech-screw-nylon-csk-m3-6
+}
+C 52700 43000 1 0 0 screw-1.sym
+{
+T 52700 44100 5 10 0 0 0 0 1
+device=SCREW
+T 52700 43500 5 10 1 1 0 0 1
+refdes=MP?
+T 53500 43200 5 10 1 1 0 1 1
+value=sr-mech-screw-nylon-csk-m3-6
+}
+C 52700 42200 1 0 0 screw-1.sym
+{
+T 52700 43300 5 10 0 0 0 0 1
+device=SCREW
+T 52700 42700 5 10 1 1 0 0 1
+refdes=MP?
+T 53500 42400 5 10 1 1 0 1 1
+value=sr-mech-screw-nylon-csk-m3-6
+}
+C 56500 44600 1 0 0 screw-1.sym
+{
+T 56500 45700 5 10 0 0 0 0 1
+device=SCREW
+T 56500 45100 5 10 1 1 0 0 1
+refdes=MP?
+T 57300 44800 5 10 1 1 0 1 1
+value=sr-mech-screw-nylon-csk-m3-6
+}
+C 56500 43800 1 0 0 screw-1.sym
+{
+T 56500 44900 5 10 0 0 0 0 1
+device=SCREW
+T 56500 44300 5 10 1 1 0 0 1
+refdes=MP?
+T 57300 44000 5 10 1 1 0 1 1
+value=sr-mech-screw-nylon-csk-m3-6
+}
+C 56500 43000 1 0 0 screw-1.sym
+{
+T 56500 44100 5 10 0 0 0 0 1
+device=SCREW
+T 56500 43500 5 10 1 1 0 0 1
+refdes=MP?
+T 57300 43200 5 10 1 1 0 1 1
+value=sr-mech-screw-nylon-csk-m3-6
+}
+C 56500 42200 1 0 0 screw-1.sym
+{
+T 56500 43300 5 10 0 0 0 0 1
+device=SCREW
+T 56500 42700 5 10 1 1 0 0 1
+refdes=MP?
+T 57300 42400 5 10 1 1 0 1 1
+value=sr-mech-screw-nylon-csk-m3-6
+}
+C 60500 44600 1 0 0 misc-mech-1.sym
+{
+T 60500 45700 5 10 0 0 0 0 1
+device=MISCMECH
+T 60500 45100 5 10 1 1 0 0 1
+refdes=MP?
+T 61400 44800 5 10 1 1 0 1 1
+value=sr-mech-spacer-ni-m3-20
+}
+C 60500 43800 1 0 0 misc-mech-1.sym
+{
+T 60500 44900 5 10 0 0 0 0 1
+device=MISCMECH
+T 60500 44300 5 10 1 1 0 0 1
+refdes=MP?
+T 61400 44000 5 10 1 1 0 1 1
+value=sr-mech-spacer-ni-m3-20
+}
+C 60500 43000 1 0 0 misc-mech-1.sym
+{
+T 60500 44100 5 10 0 0 0 0 1
+device=MISCMECH
+T 60500 43500 5 10 1 1 0 0 1
+refdes=MP?
+T 61400 43200 5 10 1 1 0 1 1
+value=sr-mech-spacer-ni-m3-20
+}
+C 60500 42200 1 0 0 misc-mech-1.sym
+{
+T 60500 43300 5 10 0 0 0 0 1
+device=MISCMECH
+T 60500 42700 5 10 1 1 0 0 1
+refdes=MP?
+T 61400 42400 5 10 1 1 0 1 1
+value=sr-mech-spacer-ni-m3-20
+}
+B 66000 48500 9000 3800 3 0 1 2 100 100 0 -1 -1 -1 -1 -1
+T 70500 52100 9 40 1 0 0 5 1
+Captive Cable Hardware
+C 66700 50600 1 0 0 screw-1.sym
+{
+T 66700 51700 5 10 0 0 0 0 1
+device=SCREW
+T 66700 51100 5 10 1 1 0 0 1
+refdes=MP?
+T 67500 50800 5 10 1 1 0 1 1
+value=sr-mech-screw-bzp-ch-m5-6
+}
+C 66700 49800 1 0 0 screw-1.sym
+{
+T 66700 50900 5 10 0 0 0 0 1
+device=SCREW
+T 66700 50300 5 10 1 1 0 0 1
+refdes=MP?
+T 67500 50000 5 10 1 1 0 1 1
+value=sr-mech-screw-bzp-ch-m5-6
+}
+C 66700 49000 1 0 0 screw-1.sym
+{
+T 66700 50100 5 10 0 0 0 0 1
+device=SCREW
+T 66700 49500 5 10 1 1 0 0 1
+refdes=MP?
+T 67500 49200 5 10 1 1 0 1 1
+value=sr-mech-screw-bzp-ch-m5-6
+}
+C 70500 50600 1 0 0 washer-1.sym
+{
+T 70500 51700 5 10 0 0 0 0 1
+device=WASHER
+T 70500 51100 5 10 1 1 0 0 1
+refdes=MP?
+T 71000 50800 5 10 1 1 0 1 1
+value=sr-mech-washer-bzp-m5-spr
+}
+C 70500 49800 1 0 0 washer-1.sym
+{
+T 70500 50900 5 10 0 0 0 0 1
+device=WASHER
+T 70500 50300 5 10 1 1 0 0 1
+refdes=MP?
+T 71000 50000 5 10 1 1 0 1 1
+value=sr-mech-washer-bzp-m5-spr
+}
+C 70500 49000 1 0 0 washer-1.sym
+{
+T 70500 50100 5 10 0 0 0 0 1
+device=WASHER
+T 70500 49500 5 10 1 1 0 0 1
+refdes=MP?
+T 71000 49200 5 10 1 1 0 1 1
+value=sr-mech-washer-bzp-m5-spr
+}
+C 67100 44800 1 0 0 misc-mech-1.sym
+{
+T 67100 45900 5 10 0 0 0 0 1
+device=MISCMECH
+T 67100 45300 5 10 1 1 0 0 1
+refdes=MP?
+T 68000 45000 5 10 1 1 0 1 1
+value=sr-mech-buttoncap-pvrd
+}
+C 67100 44000 1 0 0 misc-mech-1.sym
+{
+T 67100 45100 5 10 0 0 0 0 1
+device=MISCMECH
+T 67100 44500 5 10 1 1 0 0 1
+refdes=MP?
+T 68000 44200 5 10 1 1 0 1 1
+value=sr-mech-buttoncap-pvbk
+}
+B 66000 43700 5000 2800 3 0 1 2 100 100 0 -1 -1 -1 -1 -1
+T 68500 46300 9 40 1 0 0 5 1
+Button Caps
