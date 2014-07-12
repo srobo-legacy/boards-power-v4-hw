@@ -7,7 +7,8 @@ SCH=power-1-title.sch\
     power-2-battery.sch\
     power-3-supply.sch\
     power-4-output.sch\
-    power-5-control.sch
+    power-5-control.sch\
+    power-6-mechanical.sch
 
 SHELL=/bin/bash
 
