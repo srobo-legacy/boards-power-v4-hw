@@ -21,9 +21,7 @@ refdes=F1
 T 56100 50150 5 10 0 0 0 0 1
 symversion=0.1
 T 56000 49700 5 10 1 1 0 0 1
-value=sr-nothing
-T 55800 49000 5 10 1 1 0 0 1
-comment=40A MIDI fuse
+value=sr-fuse-40000-midi
 T 55900 49400 5 10 0 0 0 0 1
 footprint=none
 }

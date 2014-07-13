@@ -119,9 +119,9 @@ L 62550 48800 62150 48800 3 0 1 0 -1 -1
 L 62550 49450 62150 49350 3 0 1 0 -1 -1
 L 62550 49750 62050 49500 3 0 1 0 -1 -1
 L 62550 50050 62000 50050 3 0 1 0 -1 -1
-B 52000 41700 12000 4800 3 0 1 2 100 100 0 -1 -1 -1 -1 -1
+B 52000 41000 12000 5500 3 0 1 2 100 100 0 -1 -1 -1 -1 -1
 T 58000 46300 9 40 1 0 0 5 1
-Case Assembly
+Case
 C 52700 44600 1 0 0 screw-1.sym
 {
 T 52700 45700 5 10 0 0 0 0 1
@@ -308,3 +308,25 @@ value=sr-mech-buttoncap-pvbk
 B 66000 43700 5000 2800 3 0 1 2 100 100 0 -1 -1 -1 -1 -1
 T 68500 46300 9 40 1 0 0 5 1
 Button Caps
+C 52700 41400 1 0 0 misc-mech-1.sym
+{
+T 52700 42500 5 10 0 0 0 0 1
+device=MISCMECH
+T 52700 41900 5 10 1 1 0 0 1
+refdes=MP?
+T 53600 41700 5 10 1 1 0 0 1
+value=sr-nothing
+T 53600 41400 5 10 1 1 0 0 1
+comment=case.dxf in 3mm clear acrylic
+}
+C 56500 41400 1 0 0 misc-mech-1.sym
+{
+T 56500 42500 5 10 0 0 0 0 1
+device=MISCMECH
+T 56500 41900 5 10 1 1 0 0 1
+refdes=MP?
+T 57400 41700 5 10 1 1 0 0 1
+value=sr-nothing
+T 57400 41400 5 10 1 1 0 0 1
+comment=case_sticker.svg in clear vinyl window sticker
+}
