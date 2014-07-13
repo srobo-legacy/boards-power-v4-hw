@@ -2514,7 +2514,7 @@ Element["" "2920_sr.fp" "F4" "sr-fuse-r1850-2920" 13.7000mm 23.3000mm -0.7000mm 
 
 	)
 
-Element["" "1206_sr.fp" "F2" "sr-fuse-r100-1206" 21.8000mm 28.3000mm -0.7000mm 0.8000mm 1 100 ""]
+Element["" "1206_sr.fp" "F2" "sr-fuse-r125-1206" 21.8000mm 28.3000mm -0.7000mm 0.8000mm 1 100 ""]
 (
 	Attribute("device" "RESETTABLE_FUSE")
 	Attribute("manufacturer" "unknown")
@@ -4926,7 +4926,7 @@ Element["onsolder" "TP_sr.fp" "TP5" "sr-nothing" 44.4000mm 67.8000mm -0.5000mm 2
 
 	)
 
-Element["" "1206_sr.fp" "F3" "sr-fuse-r100-1206" 24.1000mm 28.3000mm -0.8000mm 0.8000mm 1 100 ""]
+Element["" "1206_sr.fp" "F3" "sr-fuse-r125-1206" 24.1000mm 28.3000mm -0.8000mm 0.8000mm 1 100 ""]
 (
 	Attribute("device" "RESETTABLE_FUSE")
 	Attribute("manufacturer" "unknown")
@@ -5745,7 +5745,7 @@ Element["" "0402_sr.fp" "R66" "sr-r-100-0402" 19.1000mm 27.4000mm -0.8000mm -0.5
 
 	)
 
-Element["" "0402_sr.fp" "R6" "sr-r-10k-0402" 28.1000mm 38.0000mm -0.5000mm 0.5000mm 1 64 ""]
+Element["" "0402_sr.fp" "R6" "sr-r-10k-0402" 28.2000mm 38.0000mm -0.5000mm 0.5000mm 1 64 ""]
 (
 	Attribute("device" "RESISTOR")
 	Attribute("manufacturer" "unknown")
@@ -6081,6 +6081,22 @@ Element["" "PKM13EPYH4000_sr.fp" "X1" "sr-piezo-pkm13epy-4000-a0" 42.5000mm 29.1
 	ElementArc [0.0000 2.5000mm 1.2500mm 1.2500mm 270 360 0.2000mm]
 	ElementArc [3.7500mm 0.0000 0.5000mm 0.5000mm 270 360 0.2000mm]
 	ElementArc [-3.7500mm 0.0000 0.5000mm 0.5000mm 270 360 0.2000mm]
+
+	)
+
+Element["" "0402_sr.fp" "R74" "sr-r-10k-0402" 28.2000mm 40.6000mm -0.4500mm 0.7500mm 1 60 ""]
+(
+	Attribute("device" "RESISTOR")
+	Attribute("manufacturer" "unknown")
+	Attribute("manufacturer_part_number" "unknown")
+	Attribute("vendor" "unknown")
+	Attribute("vendor_part_number" "unknown")
+	Pad[0.0000 -0.4510mm 0.0000 -0.4490mm 0.6200mm 0.5000mm 0.9200mm "2" "2" "square"]
+	Pad[0.0000 0.4490mm 0.0000 0.4510mm 0.6200mm 0.5000mm 0.9200mm "1" "1" "square,edge2"]
+	ElementLine [0.5000mm -0.9500mm 0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm -0.9500mm -0.5000mm 0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm -0.9500mm 0.5000mm -0.9500mm 0.1500mm]
+	ElementLine [-0.5000mm 0.9500mm 0.5000mm 0.9500mm 0.1500mm]
 
 	)
 Layer(1 "top")
@@ -7352,9 +7368,7 @@ Layer(1 "top")
 	Line[46.8500mm 35.5500mm 46.8500mm 34.8500mm 0.2000mm 0.5000mm "clearline"]
 	Line[45.5000mm 34.8000mm 46.4000mm 35.7000mm 0.2000mm 0.5000mm "clearline"]
 	Line[40.7500mm 32.9000mm 41.6000mm 32.9000mm 0.2000mm 0.5000mm "clearline"]
-	Line[28.1000mm 38.4500mm 28.1000mm 41.4000mm 0.2000mm 0.5000mm "clearline"]
-	Line[28.1000mm 41.4000mm 28.9000mm 42.2000mm 0.2000mm 0.5000mm "clearline"]
-	Line[28.9000mm 42.2000mm 32.1000mm 42.2000mm 0.2000mm 0.5000mm "clearline"]
+	Line[28.8000mm 42.2000mm 32.1000mm 42.2000mm 0.2000mm 0.5000mm "clearline"]
 	Line[10.5000mm 29.2000mm 11.4000mm 28.3000mm 0.2000mm 0.5000mm "clearline"]
 	Line[43.0000mm 23.4000mm 42.2000mm 22.6000mm 0.2000mm 0.5000mm "clearline"]
 	Line[41.0000mm 25.9000mm 41.3000mm 25.6000mm 0.1500mm 0.5000mm "clearline"]
@@ -7637,12 +7651,21 @@ Layer(1 "top")
 	Line[28.5000mm 14.6000mm 29.0950mm 14.0050mm 1.1000mm 0.5000mm ""]
 	Line[30.6000mm 35.0000mm 30.6000mm 34.5000mm 0.5000mm 0.5000mm "clearline"]
 	Line[30.2500mm 35.3500mm 30.6000mm 35.0000mm 0.5000mm 0.5000mm "clearline"]
-	Line[28.1000mm 37.5500mm 28.1000mm 36.4000mm 0.2000mm 0.5000mm "clearline"]
-	Line[28.1000mm 36.4000mm 28.4500mm 36.0500mm 0.2000mm 0.5000mm "clearline"]
+	Line[28.2000mm 37.5500mm 28.2000mm 36.3000mm 0.2000mm 0.5000mm "clearline"]
+	Line[28.2000mm 36.3000mm 28.4500mm 36.0500mm 0.2000mm 0.5000mm "clearline"]
 	Line[28.4500mm 36.0500mm 28.9500mm 36.0500mm 0.2000mm 0.5000mm "clearline"]
 	Line[28.4500mm 34.1500mm 29.6000mm 34.1500mm 0.5000mm 0.5000mm "clearline"]
 	Line[26.7250mm 3125.00mil 29.1000mm 3125.00mil 0.2000mm 0.5000mm "clearline"]
 	Line[23.5750mm 78.4250mm 21.2000mm 80.8000mm 0.2000mm 0.5000mm "clearline"]
+	Line[28.2000mm 38.4500mm 28.2000mm 39.0000mm 0.2000mm 0.5000mm "clearline"]
+	Line[28.2000mm 39.0000mm 27.6000mm 39.6000mm 0.2000mm 0.5000mm "clearline"]
+	Line[27.6000mm 39.6000mm 27.6000mm 40.9000mm 0.2000mm 0.5000mm "clearline"]
+	Line[27.6000mm 40.9000mm 27.7500mm 41.0500mm 0.2000mm 0.5000mm "clearline"]
+	Line[27.7500mm 41.0500mm 28.2000mm 41.0500mm 0.2000mm 0.5000mm "clearline"]
+	Line[28.2000mm 41.0500mm 28.2000mm 41.6000mm 0.2000mm 0.5000mm "clearline"]
+	Line[28.2000mm 41.6000mm 28.8000mm 42.2000mm 0.2000mm 0.5000mm "clearline"]
+	Line[28.2000mm 40.1500mm 28.2000mm 39.6000mm 0.2000mm 0.5000mm "clearline"]
+	Line[28.2000mm 39.6000mm 29.2000mm 38.6000mm 0.2000mm 0.5000mm ""]
 	Polygon("clearpoly")
 	(
 		[10.4000mm 82.1000mm] [43.8000mm 82.1000mm] [43.8000mm 94.6000mm] [12.9000mm 94.6000mm] [12.0000mm 94.2000mm] 
@@ -9682,6 +9705,7 @@ NetList()
 	Net("FAN" "(unknown)")
 	(
 		Connect("R6-1")
+		Connect("R74-1")
 		Connect("U10-27")
 	)
 	Net("FLAT" "(unknown)")
@@ -9817,6 +9841,7 @@ NetList()
 		Connect("R58-2")
 		Connect("R59-2")
 		Connect("R62-2")
+		Connect("R74-2")
 		Connect("RN2-5")
 		Connect("RN2-6")
 		Connect("RN2-7")
