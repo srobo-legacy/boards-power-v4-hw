@@ -3696,14 +3696,14 @@ Element["" "WURTH_7460305_sr.fp" "J1" "sr-cn-7460305" 27.6000mm 88.0000mm -0.600
 	Attribute("manufacturer_part_number" "unknown")
 	Attribute("vendor" "unknown")
 	Attribute("vendor_part_number" "unknown")
-	Pin[-150.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" ""]
-	Pin[-50.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" ""]
-	Pin[50.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" ""]
-	Pin[150.00mil -150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" ""]
-	Pin[-150.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" ""]
-	Pin[-50.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" ""]
-	Pin[50.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" ""]
-	Pin[150.00mil 150.00mil 2.3000mm 0.5000mm 2.6000mm 1.4500mm "1" "1" ""]
+	Pin[-150.00mil -150.00mil 2.3000mm 1.2112mm 2.6000mm 1.4500mm "1" "1" ""]
+	Pin[-50.00mil -150.00mil 2.3000mm 1.2112mm 2.6000mm 1.4500mm "1" "1" ""]
+	Pin[50.00mil -150.00mil 2.3000mm 1.2112mm 2.6000mm 1.4500mm "1" "1" ""]
+	Pin[150.00mil -150.00mil 2.3000mm 1.2112mm 2.6000mm 1.4500mm "1" "1" ""]
+	Pin[-150.00mil 150.00mil 2.3000mm 1.2112mm 2.6000mm 1.4500mm "1" "1" ""]
+	Pin[-50.00mil 150.00mil 2.3000mm 1.2112mm 2.6000mm 1.4500mm "1" "1" ""]
+	Pin[50.00mil 150.00mil 2.3000mm 1.2112mm 2.6000mm 1.4500mm "1" "1" ""]
+	Pin[150.00mil 150.00mil 2.3000mm 1.2112mm 2.6000mm 1.4500mm "1" "1" ""]
 	ElementLine [5.5000mm -5.5000mm 5.5000mm 5.5000mm 0.2500mm]
 	ElementLine [-5.5000mm -5.5000mm -5.5000mm 5.5000mm 0.2500mm]
 	ElementLine [-5.5000mm -5.5000mm 5.5000mm -5.5000mm 0.2500mm]
