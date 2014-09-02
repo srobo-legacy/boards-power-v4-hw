@@ -11,7 +11,7 @@ T 75200 34600 9 10 1 0 0 0 1
 T 77000 34600 9 8 1 0 0 0 1
 Richard Barlow <richard@richardbarlow.co.uk>
 T 77000 34900 9 10 1 0 0 0 1
-A
+B
 C 52700 50600 1 0 0 screw-1.sym
 {
 T 52700 51700 5 10 0 0 0 0 1

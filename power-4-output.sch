@@ -11,7 +11,7 @@ T 75200 34600 9 10 1 0 0 0 1
 T 77000 34600 9 8 1 0 0 0 1
 Richard Barlow <richard@richardbarlow.co.uk>
 T 77000 34900 9 10 1 0 0 0 1
-A
+B
 C 65800 52200 1 0 0 VND5012AK-1.sym
 {
 T 66100 57200 5 10 0 0 0 0 1

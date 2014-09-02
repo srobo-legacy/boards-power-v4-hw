@@ -11,7 +11,7 @@ T 75200 34600 9 10 1 0 0 0 1
 T 77000 34600 9 8 1 0 0 0 1
 Richard Barlow <richard@richardbarlow.co.uk>
 T 77000 34900 9 10 1 0 0 0 1
-A
+B
 C 60000 51000 1 270 0 capacitor-np-1.sym
 {
 T 60700 50800 5 10 0 0 270 0 1

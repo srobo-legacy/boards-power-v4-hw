@@ -11,7 +11,7 @@ T 75200 34600 9 10 1 0 0 0 1
 T 77000 34600 9 8 1 0 0 0 1
 Richard Barlow <richard@richardbarlow.co.uk>
 T 77000 34900 9 10 1 0 0 0 1
-A
+B
 C 55900 49400 1 0 0 fuse-1.sym
 {
 T 56100 49950 5 10 0 0 0 0 1
