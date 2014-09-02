@@ -9307,6 +9307,10 @@ Layer(8 "silk")
 	Line[59.3000mm 33.2000mm 59.3000mm 31.2000mm 0.5000mm 0.5000mm "clearline"]
 	Line[59.3000mm 31.2000mm 58.6000mm 31.9000mm 0.5000mm 0.5000mm "clearline"]
 	Line[59.3000mm 31.2000mm 60.0000mm 31.9000mm 0.5000mm 0.5000mm "clearline"]
+	Text[72.2000mm 12.2000mm 1 100 "1" "clearline"]
+	Text[52.4000mm 15.6000mm 0 100 "1" "clearline"]
+	Text[26.6000mm 24.5000mm 0 100 "R" "clearline"]
+	Text[26.7000mm 31.5000mm 0 100 "B" "clearline"]
 	Polygon("")
 	(
 		[33.9973mm 695.09mil] [35.6910mm 695.09mil] [35.8853mm 696.56mil] [36.0450mm 700.68mil] [36.1525mm 706.87mil] 
