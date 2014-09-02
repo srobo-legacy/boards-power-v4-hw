@@ -30,6 +30,9 @@ group3
 bottom
 --------------------------------------------------------------------------------
 Assembly Notes:
+
+A sample board will be provided.
+
 J1, J2 and J3 (Wurth 7460305) are push-fit components and require a press
 capable of applying around 1000N of force. A jig to support the board during
 the press-fit process can be supplied if required. These three terminals do not
@@ -37,7 +40,8 @@ require soldering.
 
 J5 is to be populated with the wire-ended fan X2. The wires must be cut
 42mm +-5mm from the fan casing and soldered directly to the board. The red wire
-must be soldered to the square pad.
+must be soldered to the square pad. Please hold the fan to the board with tape
+to prevent damage to the joints during transit.
 --------------------------------------------------------------------------------
 Included Files:
 
