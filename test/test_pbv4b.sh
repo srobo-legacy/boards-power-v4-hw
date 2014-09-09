@@ -13,7 +13,7 @@ while /bin/true; do
 	read
 	if [ -c /dev/ttyUSB0 ]; then
 		echo "Flashing..."
-		if stm32flash -b 115200 -w "$DIR/pbv4_test.bin" /dev/ttyUSB0 &> /dev/null; then
+		if stm32flash -v -b 115200 -w "$DIR/pbv4_test.bin" /dev/ttyUSB0 &>/dev/null; then
 			echo -e $GREEN "SUCCESS." $RESET "Perform checks."
 		else
 			echo -e $RED "FAIL." $RESET "Could not flash board."
