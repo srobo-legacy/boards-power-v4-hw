@@ -14,7 +14,7 @@ Test Jig Setup
 ==============
 
 1. Connect red/black power cable to bench power supply
-1. Set bench power supply to 12V with 100mA current limit
+1. Set bench power supply to 12V with 200mA current limit
 1. Plug netbook power supply into netbook/mains socket
 1. Plug FTDI cable into netbook
 1. Turn netbook on. Type 'pbv4b' and press enter
@@ -29,7 +29,7 @@ Figure 1 shows a board with the power and FTDI cables connected and the location
 3. **Plug shorted 2-way connector into J4 as shown in Figure 1**
 4. Turn on bench power supply
 5. Press power button S1 (next to J4)
-6. The board must not draw more than 40mA and green LED DS1 must illuminate
+6. The board must not draw more than 15mA and green LED DS1 must illuminate
 7. Press enter on the netbook
 8. The netbook must report that it has succesfully flashed the board
 9. The board should perform the following actions in sequence. It will repeat the sequence forever. If a particular action does not happen, or it stops, then the potential problem components are listed
