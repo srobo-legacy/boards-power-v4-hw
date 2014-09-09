@@ -25,15 +25,15 @@ Board Test Procedure
 Figure 1 shows a board with the power and FTDI cables connected and the location of the various LEDs.
 
 1. Clip the red/black power cable to the terminals as shown in Figure 1
-1. Plug FTDI cable into the 6-pin header as shown in Figure 1
-1. Plug shorted 2-way connector into J4 as shown in Figure 1
-1. Turn on bench power supply
-1. Press button S1 (next to J4)
-1. The board must not draw more than 40mA and green LED A must illuminate
-1. Press enter on the netbook
-1. The netbook must report that it has succesfully flashed the board
-1. The following should happen repeatedly. If a particular step doesn't happen or it stops then the potential problem components are listed
-
+2. Plug FTDI cable into the 6-pin header as shown in Figure 1
+3. Plug shorted 2-way connector into J4 as shown in Figure 1
+4. Turn on bench power supply
+5. Press power button S1 (next to J4)
+6. The board must not draw more than 40mA and green LED DS1 must illuminate
+7. Press enter on the netbook
+8. The netbook must report that it has succesfully flashed the board
+9. The following should happen repeatedly. If a particular step doesn't happen or it stops then the potential problem components are listed
+   
    | Indication       | Potential causes of failure    |
    |------------------|--------------------------------|
    | DS3 flash green  | DS3, R21, U5, RN3, U10, Y1     |
@@ -54,4 +54,6 @@ Figure 1 shows a board with the power and FTDI cables connected and the location
    | DS9 flash green  | DS9, R72, U1, R60, R61, U10, Y1 |
    | DS9 flash red    | DS9, R73, U4, R60, R61, U10, Y1 |
 
-1. Turn off bench power supply and remove power/USB cables ready for the next board
+10. Turn off bench power supply and remove power/USB cables ready for the next board
+
+![LED Locations](figure1.png)
