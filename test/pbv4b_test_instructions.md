@@ -32,25 +32,25 @@ Figure 1 shows a board with the power and FTDI cables connected and the location
 6. The board must not draw more than 40mA and green LED DS1 must illuminate
 7. Press enter on the netbook
 8. The netbook must report that it has succesfully flashed the board
-9. The following should happen repeatedly. If a particular step doesn't happen or it stops then the potential problem components are listed
+9. The board should perform the following actions in sequence. It will repeat the sequence forever. If a particular action does not happen, or it stops, then the potential problem components are listed
    
-   | Indication       | Potential causes of failure    |
-   |------------------|--------------------------------|
-   | DS3 flash green  | DS3, R21, U5, RN3, U10, Y1     |
-   | DS5 flash green  | DS5, R35, U7, RN3, U10, Y1     |
-   | DS6 flash green  | DS6, R38, U7, RN3, U10, Y1     |
-   | DS7 flash green  | DS7, R41, U8, RN1, U10, Y1     |
-   | DS8 flash green  | DS8, R46, U8, RN1, U10, Y1     |
-   | DS4 flash green  | DS4, R28, U6, R32, U10, Y1     |
-   | DS3 flash red    | DS3, R65, U10, Y1              |
-   | DS5 flash red    | DS5, R67, U10, Y1              |
-   | DS6 flash red    | DS6, R68, U10, Y1              |
-   | DS7 flash red    | DS7, R69, U10, Y1              |
-   | DS8 flash red    | DS8, R70, U10, Y1              |
-   | DS4 flash red    | DS4, R66, U10, Y1              |
-   | Fan on for ~1s   | X2, Q3, F3, R6, U10, Y1        |
-   | DS2 flash green  | DS2, R19, U3, F4, R75, U10, Y1 |
-   | Piezo beep       | X1, Q5, R51, R55, U10, Y1      |
+   | Indication       | Potential causes of failure     |
+   |------------------|---------------------------------|
+   | DS3 flash green  | DS3, R21, J8, U5, RN3, U10, Y1  |
+   | DS5 flash green  | DS5, R35, J10, U7, RN3, U10, Y1 |
+   | DS6 flash green  | DS6, R38, J11, U7, RN3, U10, Y1 |
+   | DS7 flash green  | DS7, R41, J12, U8, RN1, U10, Y1 |
+   | DS8 flash green  | DS8, R46, J13, U8, RN1, U10, Y1 |
+   | DS4 flash green  | DS4, R28, J9, U6, R32, U10, Y1  |
+   | DS3 flash red    | DS3, R65, U10, Y1               |
+   | DS5 flash red    | DS5, R67, U10, Y1               |
+   | DS6 flash red    | DS6, R68, U10, Y1               |
+   | DS7 flash red    | DS7, R69, U10, Y1               |
+   | DS8 flash red    | DS8, R70, U10, Y1               |
+   | DS4 flash red    | DS4, R66, U10, Y1               |
+   | Fan on for ~1s   | X2, Q3, F3, R6, U10, Y1         |
+   | DS2 flash green  | DS2, R19, U3, F4, R75, U10, Y1  |
+   | Piezo beep       | X1, Q5, R51, R55, U10, Y1       |
    | DS9 flash green  | DS9, R72, U1, R60, R61, U10, Y1 |
    | DS9 flash red    | DS9, R73, U4, R60, R61, U10, Y1 |
 
