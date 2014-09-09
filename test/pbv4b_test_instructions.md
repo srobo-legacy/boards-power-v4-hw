@@ -26,7 +26,7 @@ Figure 1 shows a board with the power and FTDI cables connected and the location
 
 1. Clip the red/black power cable to the terminals as shown in Figure 1
 2. Plug FTDI cable into the 6-pin header as shown in Figure 1
-3. Plug shorted 2-way connector into J4 as shown in Figure 1
+3. **Plug shorted 2-way connector into J4 as shown in Figure 1**
 4. Turn on bench power supply
 5. Press power button S1 (next to J4)
 6. The board must not draw more than 40mA and green LED DS1 must illuminate
