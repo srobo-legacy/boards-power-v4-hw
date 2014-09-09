@@ -7,6 +7,7 @@ GREEN="\033[32m"
 RESET="\033[0m"
 
 while /bin/true; do
+	python -c "import serial; serial.Serial( '/dev/ttyUSB0' ).setRTS(0)"
 	echo "------------------------------------------"
 	echo "Press enter to flash."
 	read
