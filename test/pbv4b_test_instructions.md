@@ -54,6 +54,6 @@ Figure 1 shows a board with the power and FTDI cables connected and the location
    | DS9 flash green  | DS9, R72, U1, R60, R61, U10, Y1 |
    | DS9 flash red    | DS9, R73, U4, R60, R61, U10, Y1 |
 
-10. Turn off bench power supply and remove power/USB cables ready for the next board
+10. Turn off bench power supply and remove power cable, FTDI cable and shorting plug, ready for the next board
 
 ![LED Locations](figure1.png)
