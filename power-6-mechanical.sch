@@ -1,4 +1,4 @@
-v 20140308 2
+v 20111231 2
 C 47000 34500 0 0 0 title-A1.sym
 T 73100 35300 9 28 1 0 0 0 1
 Power Board v4 - Mechanical
@@ -201,7 +201,7 @@ device=MISCMECH
 T 60500 45100 5 10 1 1 0 0 1
 refdes=MP19
 T 61400 44800 5 10 1 1 0 1 1
-value=sr-mech-spacer-ni-m3-20
+value=sr-mech-spacer-ni-m3-18
 }
 C 60500 43800 1 0 0 misc-mech-1.sym
 {
@@ -210,7 +210,7 @@ device=MISCMECH
 T 60500 44300 5 10 1 1 0 0 1
 refdes=MP20
 T 61400 44000 5 10 1 1 0 1 1
-value=sr-mech-spacer-ni-m3-20
+value=sr-mech-spacer-ni-m3-18
 }
 C 60500 43000 1 0 0 misc-mech-1.sym
 {
@@ -219,7 +219,7 @@ device=MISCMECH
 T 60500 43500 5 10 1 1 0 0 1
 refdes=MP21
 T 61400 43200 5 10 1 1 0 1 1
-value=sr-mech-spacer-ni-m3-20
+value=sr-mech-spacer-ni-m3-18
 }
 C 60500 42200 1 0 0 misc-mech-1.sym
 {
@@ -228,7 +228,7 @@ device=MISCMECH
 T 60500 42700 5 10 1 1 0 0 1
 refdes=MP22
 T 61400 42400 5 10 1 1 0 1 1
-value=sr-mech-spacer-ni-m3-20
+value=sr-mech-spacer-ni-m3-18
 }
 B 66000 48500 9000 3800 3 0 1 2 100 100 0 -1 -1 -1 -1 -1
 T 70500 52100 9 40 1 0 0 5 1
